@@ -1,0 +1,691 @@
+name_new,2PRACE_probability,Hispanic_probability,API_probability,Black_probability,AIAN_probability,White_probability,race
+Marius J (Mark) Nieuwenhuijsen,0,0.003,2.00E-04,0.0019,0,0.9948,White
+Penelope A (Penny) Hancock,4.00E-04,0.0044,0.0013,0.0215,0.0012,0.9712,White
+David Blane,3.00E-04,0.0045,0.0031,0.0675,0.0014,0.9232,White
+Timothy B Hallett,3.00E-04,0.0015,7.00E-04,0.0096,0.0011,0.9868,White
+Simon Cauchemez,3.00E-04,0.0148,0.0262,0.0172,7.00E-04,0.9408,White
+Elio Riboli,0,0.5816,3.00E-04,2.00E-04,0,0.4179,Hispanic
+Lesley Rushton,2.00E-04,0.0052,0.0011,0.0132,6.00E-04,0.9797,White
+Nicolette W Davies,4.00E-04,0.0045,0.0019,0.0128,8.00E-04,0.9796,White
+Mansour Taghavi Azar Sharabiani,0,2.00E-04,3.00E-04,0.003,0,0.9965,White
+James E Truscott,5.00E-04,0.0014,9.00E-04,0.0131,6.00E-04,0.9835,White
+Marie-Claude Boily,0,0.0011,2.00E-04,0.0021,1.00E-04,0.9964,White
+Matthew Fisher,4.00E-04,0.0027,0.001,0.025,0.0013,0.9697,White
+Andrew H (Andy) Heard,0.001,0.0055,0.0026,0.2035,0.001,0.7863,White
+Sonia Saxena,0.0019,0.0072,0.9709,4.00E-04,4.00E-04,0.0193,API
+Marta A G Blangiardo,3.00E-04,0.165,0.0052,0.0074,6.00E-04,0.8215,White
+Arti Maini,0.0029,2.00E-04,0.9287,2.00E-04,0,0.068,API
+Andrew J Walley,4.00E-04,0.004,0.0025,0.0325,0.0028,0.9578,White
+Hridayanayaki I (Hima) Daby,6.00E-04,0.0016,0.0432,0.0134,0.0026,0.9386,White
+Peter J White,8.00E-04,0.0037,0.0052,0.0819,0.0025,0.906,White
+Manuja R Kaluarachchi Soden,4.00E-04,0.0029,0.0121,0.0062,0.0011,0.9773,White
+Shamini Gnani,0,1.00E-04,0.035,0,0,0.9649,White
+Alan Fenwick,6.00E-04,0.0028,0.0052,0.0465,6.00E-04,0.9442,White
+Tarita Murray-Thomas,2.00E-04,0.0056,0.0023,0.5214,8.00E-04,0.4697,Black
+Philippe Froguel,0.001,0.0376,0.0263,0.0417,0.0019,0.8915,White
+Joanne P Webster,7.00E-04,0.0041,0.0041,0.0432,0.0027,0.9452,White
+Sabita N Uthaya,0.0024,0.0081,0.6412,0.015,0.0014,0.3319,API
+Daniela Fecht,0,0.0178,2.00E-04,2.00E-04,1.00E-04,0.9817,White
+Edgar Samarasundera,8.00E-04,0.4383,0.0421,0.0199,0.0023,0.4966,White
+David Aanensen,2.00E-04,0.0125,0.0052,0.0178,5.00E-04,0.9638,White
+Joseph Eliahoo,6.00E-04,0.0475,0.0212,0.0383,0.0017,0.8907,White
+Enitan Ogundipe,0,0,1.00E-04,0.9715,0,0.0284,Black
+Lesley Drake,5.00E-04,0.0052,0.0016,0.0401,0.0014,0.9513,White
+Nicholas C Grassly,2.00E-04,0.0152,0.0056,0.0347,5.00E-04,0.9438,White
+Ian J Brown,8.00E-04,0.0048,0.0032,0.1129,0.0022,0.876,White
+Josip Car,0,0.0037,4.00E-04,1.00E-04,0,0.9959,White
+John R Williams,9.00E-04,0.0043,0.0024,0.1795,0.0024,0.8105,White
+Marie L E Miller,5.00E-04,0.0052,0.0023,0.035,0.0015,0.9555,White
+Teresa D (Deirdre) Hollingsworth,4.00E-04,0.0071,0.0011,0.039,0.001,0.9514,White
+Farrukh A (Azeem) Majeed,0.011,3.00E-04,0.9598,0.0132,5.00E-04,0.0152,API
+Thiagarajah Sasikaran,2.00E-04,0.0117,0.0536,0.0087,4.00E-04,0.9252,White
+Paolo Vineis,5.00E-04,0.1791,0.0532,0.0039,9.00E-04,0.7624,White
+Simon Gregson,0.0011,0.0049,0.0107,0.003,0.0044,0.9759,White
+Steven Riley,5.00E-04,0.0041,0.0022,0.0557,0.0018,0.9358,White
+Mark P Little,5.00E-04,0.0031,0.0018,0.0611,0.0027,0.9309,White
+Anna L Hansell,4.00E-04,0.0091,0.0116,0.0142,0.002,0.9628,White
+Maria-Gloria Basanez,7.00E-04,0.1763,0.0367,0.0316,0.0015,0.7532,White
+Robert A (Alex) Bottle,6.00E-04,0.0062,9.00E-04,0.0532,4.00E-04,0.9387,White
+Christophe Fraser,7.00E-04,0.0027,0.0041,0.029,0.0013,0.9622,White
+Frank De Wolf,3.00E-04,0.0053,0.0021,0.0024,0.0019,0.988,White
+Mitchel E (Mitch) Blair,5.00E-04,0.0042,0.0017,0.0343,0.0014,0.9579,White
+Marjo-Riitta Jarvelin,1.00E-04,0.0093,0.0067,0.0043,2.00E-04,0.9794,White
+Evangelia Tzala,0,7.00E-04,2.00E-04,0,0,0.9991,White
+David J Briggs,5.00E-04,0.0041,0.0019,0.0491,0.0013,0.9431,White
+Mireille B Toledano,7.00E-04,0.2421,0.0397,0.0282,0.0015,0.6878,White
+Neena Modi,0.0013,3.00E-04,0.9874,3.00E-04,2.00E-04,0.0104,API
+Neil M Ferguson,7.00E-04,0.0041,0.0042,0.0425,0.0013,0.9472,White
+Christl A Donnelly,3.00E-04,0.0037,0.001,0.0017,3.00E-04,0.9931,White
+David J Balding,5.00E-04,0.0054,0.0017,0.0017,8.00E-04,0.9898,White
+Sylvia Richardson,9.00E-04,0.0203,0.0029,0.1381,0.0033,0.8344,White
+Queenie Chan,4.00E-04,0.0045,0.9905,3.00E-04,0,0.0043,API
+Brian G Spratt,3.00E-04,0.002,0.0014,0.0509,0.002,0.9434,White
+John C Chambers,6.00E-04,0.0033,0.0019,0.082,0.0014,0.9108,White
+Frances M Cowan,5.00E-04,0.0078,0.0024,0.0439,0.0013,0.9441,White
+Michael Joffe,3.00E-04,0.003,0.0011,9.00E-04,5.00E-04,0.9942,White
+Paul Elliott,5.00E-04,0.0028,0.0021,0.0287,0.0012,0.9648,White
+Jennifer A Wells,5.00E-04,0.0051,0.0016,0.0511,0.0017,0.94,White
+James E Bennett,5.00E-04,0.0019,0.0014,0.0526,0.0019,0.9417,White
+Sophie Day,6.00E-04,0.0032,0.0074,0.0255,0.0021,0.9612,White
+Brian Jarman,3.00E-04,0.0018,0.0014,0.021,0.001,0.9745,White
+Ruth Peters,5.00E-04,0.0075,0.0034,0.028,0.0029,0.9577,White
+Paul P Aylin,0,0.0131,0.0012,6.00E-04,0,0.9851,White
+Neil R Poulter,8.00E-04,0.0061,0.002,6.00E-04,4.00E-04,0.99,White
+Paquita C De Zulueta,0.0039,0.5232,0.2447,0.0174,2.00E-04,0.2105,Hispanic
+Elizabeth H Muir,4.00E-04,0.0114,0.0023,0.0119,9.00E-04,0.9731,White
+Helen Ward,7.00E-04,0.0045,0.0053,0.0576,0.002,0.93,White
+Roy M Anderson,6.00E-04,0.0056,0.0034,0.0588,0.0019,0.9297,White
+Raanan Gillon,6.00E-04,0.0056,0.0073,0.0759,6.00E-04,0.91,White
+Gerald V (Gerry) Stimson,5.00E-04,0.0029,0.0016,0.0044,0.0012,0.9894,White
+Simon J O'hanlon,0,7.00E-04,0.0012,8.00E-04,0,0.9972,White
+Roger B Newson,0.0016,0.0078,0.0024,0.3749,0.0015,0.6119,White
+Derek Bell,6.00E-04,0.0025,0.0019,0.104,0.0023,0.8887,White
+Thomas S Churcher,0,1.00E-04,1.00E-04,0.0156,0,0.9842,White
+Westley R (Wes) Hinsley,4.00E-04,0.0085,0.0021,0.0119,0.0053,0.9718,White
+Vasa Curcin,0,0.0021,0.0257,3.00E-04,0,0.9719,White
+Jennifer A Smith,5.00E-04,0.0053,0.0018,0.0604,0.0019,0.9302,White
+Isobel M Blake,6.00E-04,0.0031,0.0018,0.055,0.0017,0.9377,White
+Rachel B Smith,5.00E-04,0.0041,0.0017,0.0602,0.0019,0.9315,White
+Teresa Norat,1.00E-04,0.6158,0.0011,0.0022,3.00E-04,0.3805,Hispanic
+Michael R EH Pickles,6.00E-04,0.0013,0.0018,0.0072,9.00E-04,0.9882,White
+Ioanna Tzoulaki,0,8.00E-04,1.00E-04,0,0,0.9991,White
+Poppy H L Lamberton,3.00E-04,0.001,0.0052,0.0014,0.0011,0.9909,White
+Constance Nyamukapa,2.00E-04,0.0043,0.003,0.1451,5.00E-04,0.8469,White
+Martin Walker,8.00E-04,0.0174,0.0024,0.1061,0.0025,0.8707,White
+Demetris Pillas,0,0.048,0.002,0.1187,1.00E-04,0.8313,White
+William J Astle,1.00E-04,0.0032,0.0022,7.00E-04,4.00E-04,0.9935,White
+Anna E Phillips,7.00E-04,0.0071,0.0041,0.0372,0.0023,0.9486,White
+Bethan Davies,3.00E-04,7.00E-04,7.00E-04,0.0125,9.00E-04,0.9848,White
+Christopher J Millett,5.00E-04,0.0059,0.0016,0.0108,0.0019,0.9793,White
+Aisha Newth,0.0018,0.003,0.0281,0.0025,2.00E-04,0.9643,White
+Marc Chadeau,2.00E-04,0.0137,0.006,0.0094,5.00E-04,0.9702,White
+Tina (Tini) Garske,4.00E-04,0.0025,0.0022,0.0012,0.0019,0.9919,White
+Christina Prechtl,2.00E-04,0.0105,6.00E-04,0.0019,1.00E-04,0.9867,White
+Lefkos T Middleton,0.001,0.0056,0.0047,0.0902,0.0013,0.8972,White
+Kelsey Case,3.00E-04,0.0014,8.00E-04,0.0044,0.002,0.9911,White
+Karen M Logan,7.00E-04,0.0057,0.0026,0.0782,0.0024,0.9104,White
+Chung Ho (Chungho) Lau,3.00E-04,4.00E-04,0.9857,0,0,0.0135,API
+Doris S M Chan,0.0018,0.0163,0.92,0.0039,2.00E-04,0.0578,API
+Gayithri (Gaia) Kiru,0,0.0035,0.1417,0.3433,0,0.5115,White
+Perviz Asaria,0,8.00E-04,0.0267,0.0012,0,0.9712,White
+Adam M Hill,7.00E-04,0.0037,0.0014,0.0738,0.0021,0.9183,White
+Azra C H Ghani,0.0187,5.00E-04,0.8857,0.0061,9.00E-04,0.0881,API
+Lea Fortunato,4.00E-04,0.0523,0.0176,5.00E-04,5.00E-04,0.9286,White
+Vasilis Kontis,0,0,0,0,0,1,White
+Michael A Soljak,5.00E-04,0.0304,0.0147,0.0369,0.0016,0.9158,White
+Antonio I Lazzarino,1.00E-04,0.1358,0.0056,0.0022,0.002,0.8543,White
+Weihua Zhang,0,0,0.9999,0,0,1.00E-04,API
+Annick B Borquez,4.00E-04,0.5426,0.0104,0.0029,0.0049,0.4389,Hispanic
+Patrick G T Walker,7.00E-04,0.003,0.002,0.1165,0.0021,0.8757,White
+Rebecca F Baggaley,0,0.0012,5.00E-04,0.0012,2.00E-04,0.9969,White
+Thomas Woodcock,3.00E-04,0.0014,0.002,0.0025,9.00E-04,0.9931,White
+Petra Wark,2.00E-04,0.0087,0.0019,0.0087,0.0025,0.978,White
+Iona Millwood,4.00E-04,0.0018,0.0012,0.0171,0.001,0.9785,White
+Aruna Bansal,0,0,0.9942,1.00E-04,0,0.0056,API
+Maria Van Kerkhove,1.00E-04,0.0319,0.0088,0.0015,5.00E-04,0.9572,White
+Tanvi Rai,0.0016,1.00E-04,0.9964,1.00E-04,1.00E-04,0.0018,API
+Jeffrey W Eaton,4.00E-04,0.0029,0.0025,0.0228,0.0011,0.9704,White
+Paul Expert,0,0.0023,0.0077,0.0423,0,0.9478,White
+Deborah Ashby,4.00E-04,0.0025,6.00E-04,0.0414,0.0011,0.9538,White
+Salman Rawaf,0.0035,0.0061,0.1606,0.0167,0.001,0.812,White
+Henry A Lee,9.00E-04,0.0065,0.5518,0.059,0.0026,0.3791,API
+Alina C Rodriguez,0,0.561,0.0022,1.00E-04,0,0.4367,Hispanic
+Lucy Okell,3.00E-04,0.039,0.0157,0.0206,7.00E-04,0.9237,White
+Thibaut Jombart,0,1.00E-04,0,6.00E-04,0,0.9993,White
+Mary Cross,6.00E-04,0.0048,0.002,0.0488,0.002,0.9418,White
+Rowan Myron,4.00E-04,0.0033,0.0032,0.0056,0.0157,0.9719,White
+Mona C (Camille) Gajria,0.0021,0.0301,0.1758,0.0287,0.0014,0.7619,White
+Elizabeth A Dubois,5.00E-04,0.0132,0.0019,0.0147,0.003,0.9667,White
+Marika A Kaakinen,0,5.00E-04,3.00E-04,5.00E-04,0,0.9988,White
+Daphne S Babalis,2.00E-04,0.0123,0.011,0.0173,7.00E-04,0.9584,White
+Eszter P Vamos,0,0.001,1.00E-04,0,0,0.9988,White
+Felix E C Greaves,0.0022,0.0663,0.0115,0.1812,0.004,0.7348,White
+Ganesh Sathyamoorthy,1.00E-04,3.00E-04,0.974,2.00E-04,0,0.0254,API
+Christopher R K (Chris) Gale,5.00E-04,0.0063,0.0035,0.0272,0.0016,0.9609,White
+Neil Murphy,5.00E-04,0.0034,0.0038,0.0242,0.0013,0.9668,White
+Lena I Barrera Vergara,0.0015,0.4684,0.3241,0.002,4.00E-04,0.2036,Hispanic
+Isabel Tavitian-Exley,7.00E-04,0.3614,0.0306,0.0177,0.0021,0.5875,White
+Julia Halder,0.0016,0.0046,0.1592,0.0048,1.00E-04,0.8297,White
+Minttu M Ronn,0,1.00E-04,1.00E-04,1.00E-04,0,0.9997,White
+Miriam Martinez Biarge,4.00E-04,0.5919,0.0119,0.0172,9.00E-04,0.3776,Hispanic
+Anthony A Laverty,4.00E-04,0.0076,0.0025,9.00E-04,0.0012,0.9874,White
+Ta Yu (John) Lee,0,0.003,0.3366,0.169,0,0.4913,White
+Natalia M B Klimowska-Nassar,8.00E-04,0.1728,0.0241,0.0221,0.0018,0.7784,White
+Britta Jewell,3.00E-04,0.0012,5.00E-04,0.0104,0.0012,0.9863,White
+Dagfinn Aune,3.00E-04,0.0015,0.0014,0.0012,0.001,0.9946,White
+Ilaria Dorigatti,0,0.0205,7.00E-04,2.00E-04,0,0.9787,White
+Stuart A Hofer,2.00E-04,6.00E-04,8.00E-04,6.00E-04,6.00E-04,0.9972,White
+David I Hastie,5.00E-04,0.0041,0.0016,0.0247,8.00E-04,0.9682,White
+Lesong Conteh,0.0065,0.0105,0.0149,0.9359,1.00E-04,0.032,Black
+Monica Pirani,0.0019,0.0061,0.3528,0.0018,9.00E-04,0.6365,White
+Katharina D Hauck,3.00E-04,0.002,0.0017,3.00E-04,5.00E-04,0.9952,White
+Aisha Anjum,0.0079,0.001,0.9634,7.00E-04,0.001,0.026,API
+Hugo C Turner,0.0014,0.0924,0.0046,0.0576,0.0029,0.8411,White
+Daniel Laydon,3.00E-04,0.1547,0.0014,0.0034,3.00E-04,0.8399,White
+Muhammad Saleem Khan,0.0108,3.00E-04,0.9788,0.0018,2.00E-04,0.008,API
+Ghadeer S Aljuraiban,0,1.00E-04,0.001,1.00E-04,0,0.9988,White
+Mikaela Smit,5.00E-04,0.0091,0.0084,0.0101,0.001,0.9708,White
+Bruce C Neal,6.00E-04,0.0012,0.0014,0.0927,0.0016,0.9026,White
+Anne Cori,1.00E-04,0.0094,0.0029,0.0064,2.00E-04,0.9811,White
+Majid Ezzati,0,0,0.0022,0,0,0.9978,White
+Peter Winskill,0,0.0021,8.00E-04,6.00E-04,0,0.9964,White
+Matthew J Harris,7.00E-04,0.0034,0.0012,0.1288,0.0017,0.8641,White
+Lorainne Tudor Car,9.00E-04,0.2953,0.0323,0.0619,1.00E-04,0.6094,White
+Tara D Mangal,0.0347,0.0116,0.3561,0.0924,0.0204,0.4847,White
+Sophie Coronini-Cronberg,7.00E-04,0.0294,0.0413,0.0354,0.0018,0.8915,White
+Ana R (Rita) Vieira,0.0067,0.1556,0.0063,0.0037,0.0012,0.8265,White
+Georgios Papageorgiou,0,1.00E-04,0,0,0,0.9999,White
+Deborah A Navarro Rosenblatt,2.00E-04,0.0015,9.00E-04,5.00E-04,3.00E-04,0.9966,White
+Cheryl W S Battersby,3.00E-04,0.002,0.0013,0.0042,0,0.9921,White
+Michael J Hurley,3.00E-04,0.0024,0.0018,0.0109,0.0011,0.9834,White
+Esra Suel,0,4.00E-04,0.0022,0.003,0,0.9943,White
+Ninha Silva,1.00E-04,0.9393,0.0121,1.00E-04,0,0.0484,Hispanic
+Robert A Cheke,2.00E-04,0.0218,0.0057,0.2015,7.00E-04,0.7701,White
+Amanda J Bravery,0,7.00E-04,0.0024,0.0716,0,0.9253,White
+Paul J Sullivan,3.00E-04,0.003,0.0021,0.0152,0.001,0.9784,White
+Heather A Ward,4.00E-04,0.0018,5.00E-04,0.0444,0.0017,0.9512,White
+Mariachiara Di Cesare,0,0,0,0,0,0.9999,White
+Emanuela Falaschetti,0,0.0061,2.00E-04,0,0,0.9937,White
+Geva Greenfield,0.0011,0.0042,0.0134,0.0354,8.00E-04,0.9452,White
+Marc J Gunter,5.00E-04,0.0036,0.0022,0.0274,0.0011,0.9653,White
+Martin L Block,4.00E-04,0.011,0.0026,0.0096,7.00E-04,0.9756,White
+Alexander G Shaw,8.00E-04,0.0113,0.0122,0.0621,0.002,0.9117,White
+Edward A J (Ed) Waddingham,2.00E-04,0.0034,0.001,0.0012,2.00E-04,0.9939,White
+David Salman,0.0053,0.0191,0.055,0.0045,0.0034,0.9127,White
+Myra Tilney,5.00E-04,0.0098,0.0116,0.0018,3.00E-04,0.9759,White
+Christina J Atchison,5.00E-04,0.0073,0.0017,0.0293,0.0014,0.9597,White
+Richard J Pinder,7.00E-04,0.0097,0.0028,0.1391,8.00E-04,0.8468,White
+Ailsa J Mckay,6.00E-04,0.0062,0.006,0.0286,0.0022,0.9563,White
+Carolyn A Sharpe,5.00E-04,0.0018,0.001,0.0783,9.00E-04,0.9175,White
+Emily L Prior,4.00E-04,0.0047,0.002,0.0124,0.0011,0.9795,White
+Honor R H Bixby,4.00E-04,0.0019,0.002,0.0015,0.0044,0.9898,White
+Min J Kwun,1.00E-04,1.00E-04,0.9972,1.00E-04,0,0.0025,API
+Shati S Rahman,0.0056,7.00E-04,0.9743,0.0036,3.00E-04,0.0155,API
+Angad S Kooner,0.0022,4.00E-04,0.9933,2.00E-04,5.00E-04,0.0035,API
+Arinbjorn Kolbeinsson,0,0.0023,0.002,0.0102,0,0.9856,White
+Giovanni D Charles,0.0024,0.2306,0.0089,0.1241,0.007,0.627,White
+Isaac J Stopard,3.00E-04,0.0441,0.0075,0.0268,8.00E-04,0.9205,White
+Jonathan I D Hamley,0.002,0.0187,7.00E-04,0.0039,0.0303,0.9445,White
+Mohammed Jawad,0.0623,7.00E-04,0.4186,0.0101,0.0013,0.507,White
+Richard J Sheppard,5.00E-04,0.0048,0.0018,0.0744,0.0016,0.9168,White
+Robert A (Rob) Johnson,6.00E-04,0.0039,0.0011,0.1077,0.0022,0.8844,White
+Thomas E Beaney,2.00E-04,0.0011,6.00E-04,0.0012,0.0013,0.9955,White
+Thomas E Cowling,5.00E-04,0.0014,0.0013,0.0201,0.0011,0.9755,White
+Yutong (Samuel) Cai,1.00E-04,0,0.9996,0,0,3.00E-04,API
+Sondus Hassounah,1.00E-04,0.006,0.0052,0.0062,2.00E-04,0.9823,White
+Laura Lennox,3.00E-04,0.0064,0.0011,0.0163,7.00E-04,0.9752,White
+Joshua D Symons,2.00E-04,0.0051,0.0022,0.0017,6.00E-04,0.9902,White
+Habib Saadi,0.0243,9.00E-04,0.5729,0.0022,1.00E-04,0.3997,API
+Nikolaos (Nikolas) Mastellos,0,2.00E-04,0,1.00E-04,0,0.9996,White
+Linda M Oude Griep,0.001,0.0024,0.0067,0.0011,6.00E-04,0.9882,White
+Umme Zeinab Mulla,0,0,0.3172,6.00E-04,0,0.6822,White
+Laura Monje Garcia,3.00E-04,0.8321,0.0072,0.0023,0.0024,0.1557,Hispanic
+Xavier Didelot,4.00E-04,0.0173,0.0016,0.0039,5.00E-04,0.9762,White
+Leila Abar,0.0031,0.019,0.0675,0.005,1.00E-04,0.9053,White
+Gretchen Stevens,4.00E-04,0.0034,0.0017,0.0227,0.0021,0.9697,White
+Pierre Nouvellet,3.00E-04,0.0112,0.0062,0.022,7.00E-04,0.9595,White
+Romain Silhol,3.00E-04,0.0068,0.005,0.0162,7.00E-04,0.971,White
+Hilary C Watt,5.00E-04,0.0027,0.0036,0.0358,0.0019,0.9555,White
+Saima Afaq,1.00E-04,9.00E-04,0.268,5.00E-04,0,0.7305,White
+Ravi Parekh,0.0012,0,0.9978,0,0,9.00E-04,API
+Chu-Mei (Kiara) Chang,5.00E-04,0.0024,0.9908,6.00E-04,0,0.0057,API
+Marcelo P Segura Lepe,1.00E-04,0.9798,6.00E-04,3.00E-04,1.00E-04,0.0191,Hispanic
+Ranjeeta A Thomas,0.0084,0.0031,0.2525,0.0736,0.0042,0.6581,White
+Natsuko Imai,0.0019,0.001,0.9835,1.00E-04,1.00E-04,0.0133,API
+Edward P K Parker,6.00E-04,0.0056,0.0029,0.0788,0.0021,0.91,White
+Hakim-Moulay Dehbi,0,0.0016,3.00E-04,3.00E-04,0,0.9977,White
+Anand Shah,0.0012,1.00E-04,0.9972,1.00E-04,1.00E-04,0.0014,API
+Amanda Shevanthi (Shevanthi) Nayagam,0,0.0015,0.1209,0.0015,1.00E-04,0.8761,White
+Robert G Perneczky,2.00E-04,0.0171,0.0032,0.0123,5.00E-04,0.9667,White
+Marie Loh,0.0023,0.0033,0.6276,0.0077,0.002,0.357,API
+Sonia Kumar,0.0043,0.0119,0.9531,0.0011,5.00E-04,0.029,API
+Eva F Riboli-Sasco,7.00E-04,0.1138,0.0377,0.0322,0.0019,0.8137,White
+Johanna L Rhodes,6.00E-04,0.0187,0.0024,0.0429,0.0017,0.9337,White
+Derryn Lovett,6.00E-04,0.0054,0.0029,0.0913,9.00E-04,0.8989,White
+Austen El-Osta,1.00E-04,0.0053,0.0029,0.0104,5.00E-04,0.9808,White
+Gregory (Greg) Parston,5.00E-04,0.0172,0.0071,0.0478,0.0017,0.9256,White
+Nimalan (Nim) Arinaminpathy,5.00E-04,0.0247,0.0541,0.0183,9.00E-04,0.9015,White
+Claire L Streatfield,2.00E-04,0.009,0.0081,0.0135,5.00E-04,0.9686,White
+Amanda J Cross,5.00E-04,0.0042,9.00E-04,0.0459,0.0019,0.9465,White
+Erik Volz,3.00E-04,0.0111,0.0018,6.00E-04,7.00E-04,0.9855,White
+Christophe A T Stevens,6.00E-04,0.0025,0.0026,0.0251,0.0025,0.9666,White
+Eleanor (Ellie) Sherrard-Smith,6.00E-04,0.0403,0.0256,0.0393,0.0018,0.8924,White
+Christopher M (Chris) Wymant,2.00E-04,0.0122,0.0055,0.0238,6.00E-04,0.9578,White
+Pamela J (Jane) Bruton,4.00E-04,0.0041,0.0011,0.096,0.0014,0.897,White
+Ibrahim Karaman,0,1.00E-04,0.0016,0.0048,0,0.9934,White
+Nicholas J Croucher,3.00E-04,0.0022,9.00E-04,0.0013,4.00E-04,0.9948,White
+Catherine E Robb,4.00E-04,0.0044,0.0031,0.013,7.00E-04,0.9784,White
+Filippos Filippidis,0,0,0,0,0,1,White
+Peter Baker,6.00E-04,0.003,0.0052,0.0355,0.0018,0.9538,White
+Andrea Rodriguez Martinez,3.00E-04,0.8662,0.0034,0.0026,0.0025,0.125,Hispanic
+Zulma M Cucunuba Perez,0,0.9873,0.0014,1.00E-04,2.00E-04,0.0109,Hispanic
+Evangelos Evangelou,0,2.00E-04,0,0,0,0.9998,White
+Bin Zhou,1.00E-04,0,0.9995,0,0,3.00E-04,API
+Kristine Rasmussen,5.00E-04,0.0084,0.0091,3.00E-04,6.00E-04,0.9811,White
+Nuttan Tanna,9.00E-04,0.0029,0.7266,0.0261,0.0012,0.2423,API
+Thomas V R Hone,4.00E-04,0.0019,0.0102,0.0067,0.0018,0.9791,White
+Raffaele Palladino,2.00E-04,0.0017,3.00E-04,1.00E-04,1.00E-04,0.9976,White
+Clare A Berry,5.00E-04,0.0022,0.0021,0.0529,0.0014,0.9409,White
+David Rawaf,2.00E-04,0.0116,0.0049,0.0107,5.00E-04,0.9721,White
+Samrat Singh,0.004,2.00E-04,0.9929,4.00E-04,3.00E-04,0.0021,API
+Robert J Verity,3.00E-04,0.005,0.0014,8.00E-04,5.00E-04,0.9919,White
+Parthenia Giannakopoulou,0,1.00E-04,1.00E-04,4.00E-04,0,0.9995,White
+Dipender P S Gill,0.0052,0.0039,0.7638,0.0132,0.0013,0.2126,API
+Lola Brookes,8.00E-04,0.0079,0.0025,0.0507,0.0014,0.9365,White
+Ana Luisa Neves,0.0072,0.217,0.0204,0.0044,0.0019,0.749,White
+Philippa Douglas,8.00E-04,0.0022,0.0016,0.1399,0.0015,0.8539,White
+Margarita Pons Salort,0,0.69,8.00E-04,4.00E-04,1.00E-04,0.3087,Hispanic
+Ville M Karhunen,0,1.00E-04,0,0,0,0.9999,White
+Christoforos (Chris) Hadjichrysanthou,0,4.00E-04,3.00E-04,3.00E-04,0,0.999,White
+Carolin Vegvari,3.00E-04,0.0194,0.01,0.0092,5.00E-04,0.9607,White
+Dinithi Perera,0.0022,0.086,0.5588,0.0012,0.001,0.3508,API
+Abbas Dehghan,0,5.00E-04,0.007,0.0088,0,0.9837,White
+Raha Pazoki,0,0,0,0,0,0.9999,White
+Kayleigh Ougham,1.00E-04,0.005,0.0015,0.0102,4.00E-04,0.9827,White
+Gemma L Nedjati Gilani,0.0036,0.0155,0.8296,5.00E-04,3.00E-04,0.1504,API
+Konstantinos (Kostas) Tsilidis,0,1.00E-04,0,0,0,0.9999,White
+Jennifer Murphy,4.00E-04,0.0047,0.0017,0.0268,0.0013,0.9652,White
+Chinedu T (Chi) Udeh-Momoh,0,0.0011,0.0031,0.4269,0,0.5689,White
+Clare P Mccormack,4.00E-04,0.0023,0.0018,0.0035,8.00E-04,0.9913,White
+Kieran Bates,4.00E-04,0.0014,0.0012,0.0427,0.0014,0.9528,White
+Emma C L Robbins,4.00E-04,0.004,0.0019,0.0195,0.0018,0.9723,White
+Elita Jauneikaite,0.0013,0.0606,0.0575,0.0432,0.002,0.8354,White
+Lisa Aufegger,2.00E-04,0.0246,0.0048,0.0269,7.00E-04,0.9428,White
+Lilith K Whittles,4.00E-04,0.003,0.0011,0.0014,3.00E-04,0.9939,White
+Edward Meinert,2.00E-04,0.002,0.0022,5.00E-04,3.00E-04,0.9947,White
+Alastair Heffernan,3.00E-04,0.0014,0.0026,7.00E-04,4.00E-04,0.9946,White
+Joseph Challenger,0.0011,0.0317,0.0022,0.1362,7.00E-04,0.828,White
+Kimberley A Foley,3.00E-04,0.0018,0.0012,0.0099,5.00E-04,0.9863,White
+Kanika S Dharmayat,0.0025,0.0102,0.3031,0.0564,0.0021,0.6257,White
+Kate M (Kate) Mitchell,7.00E-04,0.0029,0.0021,0.0908,0.0023,0.9012,White
+Andrea L Darling,4.00E-04,0.0075,0.0017,0.017,0.0011,0.9722,White
+Kelsey M Flott,7.00E-04,0.0023,5.00E-04,0.0743,6.00E-04,0.9216,White
+Ahsan M Rao,0.0021,1.00E-04,0.9779,2.00E-04,1.00E-04,0.0196,API
+Matyas Szigeti,0,0.002,5.00E-04,0.0031,0,0.9943,White
+Mala Rao,0.0014,3.00E-04,0.9601,2.00E-04,1.00E-04,0.0379,API
+Alice Ledda,0.0017,0.0112,0.4386,0.0011,2.00E-04,0.5473,White
+Rossella Alfano,2.00E-04,0.005,0.001,1.00E-04,1.00E-04,0.9936,White
+Kris A Murray,5.00E-04,0.0032,0.0025,0.043,0.0013,0.9495,White
+Richard MMN Ma,0.0013,0.0079,0.9206,0.0028,2.00E-04,0.0672,API
+James A Hay,4.00E-04,0.0018,0.008,0.0202,9.00E-04,0.9688,White
+Geraint J Price,5.00E-04,0.0013,0.0015,0.0673,0.0012,0.9282,White
+Janetta E Skarp,2.00E-04,0.0035,0.0017,0.0179,6.00E-04,0.9762,White
+Kausik K (Kosh) Ray,0.004,0.0017,0.2488,0.0215,0.003,0.721,White
+Charalampos (Harry) Triantafyllidis,0,0,0,0,0,1,White
+Marc Baguelin,2.00E-04,0.0137,0.006,0.0094,5.00E-04,0.9702,White
+Kaveh Asanati,0,8.00E-04,0.002,1.00E-04,0,0.9971,White
+Paraskevi Seferidi,0,1.00E-04,4.00E-04,1.00E-04,0,0.9994,White
+Sam H Farrell,5.00E-04,0.003,0.0049,0.0109,0.0011,0.9795,White
+Nina Dutta,0.002,0.0023,0.9363,0.0015,0.0023,0.0557,API
+Philip Fadahunsi,0,4.00E-04,5.00E-04,0.3102,0,0.689,White
+Ceire E Costelloe,0,0.0011,4.00E-04,0.0028,1.00E-04,0.9955,White
+Bowen Su,3.00E-04,9.00E-04,0.9906,2.00E-04,2.00E-04,0.0079,API
+Federica Amati,3.00E-04,0.0075,0.0033,0.0023,1.00E-04,0.9865,White
+Catherine E (Kate) Honeyford,2.00E-04,0.0144,0.0104,0.0139,5.00E-04,0.9606,White
+Laura Vanderbloemen,1.00E-04,0.003,6.00E-04,0.0015,3.00E-04,0.9946,White
+Antonio Javier Vallejo-Vaz,8.00E-04,0.2379,0.0244,0.0452,0.0022,0.6895,White
+Susan Barber,5.00E-04,0.0022,0.0021,0.041,0.0019,0.9523,White
+Anna Freni Sterrantino,2.00E-04,0.0421,0.0119,0.0126,6.00E-04,0.9326,White
+Robbie M Parks,6.00E-04,0.002,0.0013,0.0815,0.0015,0.9132,White
+Arran T P Hamlet,8.00E-04,0.004,0.0013,0.1116,9.00E-04,0.8813,White
+Henock B Taddese,5.00E-04,0.0016,0.0019,0.8994,1.00E-04,0.0964,Black
+Lily L Geidelberg,0.001,0.0904,0.1191,0.0319,0.0022,0.7555,White
+Jonathan Pearson-Stuttard,6.00E-04,0.082,0.0262,0.0381,0.0019,0.8513,White
+Benard Bene,0,5.00E-04,4.00E-04,0.2758,0,0.7233,White
+David J Haw,7.00E-04,0.0027,0.0999,0.0119,0.0018,0.883,White
+Antonios (Antonis) Myridakis,0,3.00E-04,1.00E-04,5.00E-04,0,0.9991,White
+Matthias Wielscher,5.00E-04,0.0127,0.0139,0.0237,0.0014,0.9479,White
+Thomas A M (Tom) Bond,5.00E-04,0.0018,0.0021,0.0437,0.0017,0.9503,White
+Nicholas A Johnson,7.00E-04,0.0043,0.0019,0.1044,0.0021,0.8866,White
+Matthew A S Dixon-Zegeye,5.00E-04,0.0253,0.0099,0.0319,0.0016,0.931,White
+Oliver J Watson,9.00E-04,0.0099,0.0072,0.101,0.0027,0.8783,White
+Richard G Fitzjohn,0,4.00E-04,6.00E-04,0.0153,0,0.9836,White
+David C Muller,4.00E-04,0.0122,0.0035,0.0064,6.00E-04,0.9768,White
+Nikita Weth,0,0.008,0.0027,0.0013,0,0.9879,White
+Arnaud Koehl,0,1.00E-04,0,0,0,0.9999,White
+Antonio Berlanga,1.00E-04,0.9596,0.001,0.0012,4.00E-04,0.0377,Hispanic
+Benedict W J Hayhoe,0.0031,0.0122,0.0094,0.0076,6.00E-04,0.967,White
+Victoria R Cornelius,6.00E-04,0.0083,0.0026,0.0648,0.0067,0.917,White
+Joachim E F Marti,3.00E-04,0.0983,0.0128,0.0038,0.0012,0.8836,White
+Brandon L Parkes,4.00E-04,0.0037,0.0012,0.0477,0.001,0.9459,White
+Igor A Siveroni,0,0.2074,5.00E-04,0.0012,0,0.791,White
+Andrew T (Toby) Prevost,6.00E-04,0.0055,0.0019,0.0441,0.0017,0.9462,White
+Dale Weston,5.00E-04,0.0011,8.00E-04,0.0583,0.0025,0.9368,White
+Frederic B J (Fred) Piel,2.00E-04,0.0038,0.0019,9.00E-04,0.0023,0.991,White
+Rui J Pinto,0.0057,0.2241,0.2054,0.0019,0.0071,0.5559,White
+Grazia Antonacci,3.00E-04,0.003,0.0017,2.00E-04,1.00E-04,0.9946,White
+Kathryn N Jones,6.00E-04,0.0023,9.00E-04,0.1131,0.0021,0.8809,White
+Oliver J K Robinson,0.0013,0.0125,0.0067,0.1969,0.002,0.7806,White
+Weiyi Wang,1.00E-04,0,0.9996,0,0,3.00E-04,API
+Maria M Piggin,3.00E-04,0.1108,0.0147,0.009,7.00E-04,0.8644,White
+Mariam Habib,0,8.00E-04,0.0335,0.017,0,0.9488,White
+Samir J Bhatt,0.0031,2.00E-04,0.9904,2.00E-04,1.00E-04,0.006,API
+Sonia Dagnino,2.00E-04,0.8682,0.0014,5.00E-04,6.00E-04,0.1291,Hispanic
+Mable A Nakubulwa,2.00E-04,0.0043,0.0076,0.4673,5.00E-04,0.5201,White
+David N Jorgensen,3.00E-04,0.004,0.0017,7.00E-04,7.00E-04,0.9926,White
+Sena Jawad,0.0169,0.0015,0.1524,0.011,0.0016,0.8167,White
+Roya Hassanzadeh,0,1.00E-04,0.001,1.00E-04,0,0.9988,White
+Cornelia Junghans Minton,4.00E-04,0.0021,0.0012,0.0127,0.0014,0.9822,White
+Heather R Mclellan-Young,5.00E-04,0.0156,0.0051,0.0342,0.0017,0.943,White
+Barbara Bodinier,1.00E-04,0.0061,0.0016,0.0114,5.00E-04,0.9802,White
+Kalypso (Kalipso) Chalkidou,2.00E-04,0.0046,0.0058,0.0103,6.00E-04,0.9786,White
+Laura E Downey,4.00E-04,0.0067,0.0011,0.0125,0.0016,0.9777,White
+Natalia Z Kurek,5.00E-04,0.0236,0.0039,1.00E-04,1.00E-04,0.9718,White
+Stephanie Evans,6.00E-04,0.0076,0.0016,0.0788,0.0016,0.9099,White
+Lindsay H Dewa,0,6.00E-04,0.1189,0.0414,0,0.8392,White
+Miia K Kivipelto,0,0.0048,0.017,2.00E-04,0,0.978,White
+Annalisa N Sheehan,4.00E-04,0.0085,0.0031,4.00E-04,5.00E-04,0.9871,White
+Suzie M Cro,0,0.0179,0.0084,3.00E-04,0,0.9734,White
+Constanze Ciavarella,1.00E-04,0.0014,8.00E-04,5.00E-04,0,0.9972,White
+Maria Laura Caminia Iurilli,3.00E-04,0.1357,0.0143,0.0097,7.00E-04,0.8393,White
+Phillip Jervis,7.00E-04,0.0084,0.0037,0.0371,0.0015,0.9486,White
+Patrick E Doohan,2.00E-04,0.0013,0.0027,0.0012,2.00E-04,0.9944,White
+Saskia J Ricks,0.001,0.0049,0.0018,0.1557,9.00E-04,0.8356,White
+Amy Dighe,0,6.00E-04,0.3603,0.0322,0,0.6069,White
+Margarita Cariolou,7.00E-04,0.431,0.0292,0.0148,0.002,0.5222,White
+Jakub G Sobiecki,1.00E-04,0.0024,0.0021,0.0017,2.00E-04,0.9936,White
+James W H Webbe,0.0022,0.0043,0.0029,0.1359,0.0018,0.853,White
+Susanna Sakonidou,0.001,0.0595,0.0486,0.0275,0.0016,0.8618,White
+Alexandra B Hogan,5.00E-04,0.0109,0.0017,0.0249,0.001,0.961,White
+Carlos Alberto Torres-Vitolas,7.00E-04,0.4791,0.0239,0.0212,0.0024,0.4727,Hispanic
+Milla Marinova,0,0.0114,3.00E-04,1.00E-04,0,0.9882,White
+Rodrigo Carrillo Larco,3.00E-04,0.9251,0.0067,5.00E-04,1.00E-04,0.0672,Hispanic
+Xiang Li,1.00E-04,0,0.9996,0,0,3.00E-04,API
+Hayley A Thompson,5.00E-04,0.0019,8.00E-04,0.0624,0.0024,0.932,White
+Su Jin (Sujin) Kang,0,6.00E-04,0.9902,7.00E-04,0,0.0086,API
+Cherelle S Augustine,7.00E-04,0.0038,0.0036,0.1143,0.0061,0.8714,White
+Sangeeta Bhatia,0.0011,0,0.9971,0,1.00E-04,0.0017,API
+Sabrina Rodrigues,0.0049,0.2744,0.0322,0.01,9.00E-04,0.6777,White
+Jessica Laine,4.00E-04,0.0125,0.0015,0.0243,7.00E-04,0.9606,White
+Tasnime Osama,0,0,0,1.00E-04,0,0.9999,White
+Margaret J De Villiers,2.00E-04,0.0425,0.0021,0.086,3.00E-04,0.8689,White
+Harinakshi Sanikini,8.00E-04,0.0426,0.1469,0.0316,0.0016,0.7765,White
+Aina Roca Barcelo,0,0.4076,0.0883,0.0428,0,0.4612,White
+Fabricia Ferreira Do Nascimento,0.0217,0.1487,0.0074,0.0079,0.0017,0.8126,White
+Edward J Maile,0.0012,0.0061,0.116,0.0061,0.0027,0.8679,White
+Jessica Smith,5.00E-04,0.0087,0.0016,0.0651,0.0021,0.9219,White
+Daniel Chen,0.0013,0.0052,0.9556,0.0018,1.00E-04,0.0359,API
+Valentina M T Vos,0,0.0018,4.00E-04,0,0,0.9977,White
+Niloofar Shoari,0,1.00E-04,5.00E-04,0,0,0.9994,White
+Keith J Fraser,5.00E-04,0.0015,0.0018,0.0393,0.0012,0.9558,White
+Helen H Skirrow,2.00E-04,0.0113,0.0147,0.0128,6.00E-04,0.9605,White
+Bang Zheng,1.00E-04,0,0.9996,0,0,3.00E-04,API
+Charles F Whittaker,6.00E-04,0.002,0.0016,0.0605,0.0012,0.9341,White
+Daniela Olivera Mesa,3.00E-04,0.8915,0.0094,4.00E-04,0.0011,0.0973,Hispanic
+Francisco Goiana-Da-Silva,8.00E-04,0.5789,0.0331,0.0105,0.0024,0.3743,Hispanic
+Hannah Edwards,7.00E-04,0.0028,0.0021,0.0934,0.0018,0.8992,White
+Joshua (Josh) D'aeth,6.00E-04,0.0474,0.0161,0.042,0.0019,0.892,White
+Nora Schmit,6.00E-04,0.0107,0.0038,5.00E-04,9.00E-04,0.9835,White
+Sarah J Hayes,7.00E-04,0.0029,0.0016,0.0667,0.0016,0.9265,White
+Katherine A M (Katy) Gaythorpe,2.00E-04,0.0178,0.0084,0.0105,5.00E-04,0.9625,White
+Sofia Christakoudi,0.0013,0.2278,0.0532,0.0226,0.002,0.693,White
+Shalmali S Deshpande,4.00E-04,0,0.998,0,0,0.0016,API
+Jonathan Blackwell,8.00E-04,0.0089,0.0024,0.0933,0.0019,0.8928,White
+Abrar SA Alturkistani,0.0039,0.0066,0.2093,0.0201,9.00E-04,0.7593,White
+James R P Stimson,4.00E-04,0.0017,0.0012,0.0044,0.0011,0.9911,White
+Louisa R Moorhouse,6.00E-04,0.0098,0.0043,0.0016,0.0011,0.9826,White
+Ivie O G Itua,0,9.00E-04,0.0024,0.5143,0,0.4824,Black
+Bethlehem D Solomon,0.0037,0.0063,0.0145,0.4335,0.0023,0.5397,White
+Stephanie A B Bull,4.00E-04,0.0068,0.0016,0.0203,0.0028,0.968,White
+Rachel Phillips,5.00E-04,0.004,0.0018,0.042,0.0021,0.9496,White
+Helen L Coupland,8.00E-04,0.0031,0.0046,0.0036,7.00E-04,0.9872,White
+Viral Thakerar,0.0017,0.0034,0.8235,0.0048,9.00E-04,0.1658,API
+Margarita Durkina,7.00E-04,0.431,0.0292,0.0148,0.002,0.5222,White
+Celeste A Loots,4.00E-04,0.0432,0.005,0.0039,2.00E-04,0.9474,White
+Chen (Steven) Shen,1.00E-04,1.00E-04,0.9956,0,1.00E-04,0.004,API
+David N Nabarro,0.0022,0.6734,0.0377,0.0022,4.00E-04,0.2841,Hispanic
+Alicia K Heath,4.00E-04,0.0096,0.0014,0.0439,0.0015,0.9431,White
+Klodeta Kura,5.00E-04,0.0015,0.0832,0.0057,6.00E-04,0.9085,White
+Mehrosa Memood,4.00E-04,0.0204,0.0267,0.0255,7.00E-04,0.9263,White
+Andrew C Glover,8.00E-04,0.005,0.0027,0.1308,0.0011,0.8598,White
+Ahmed M NAM Alboksmaty,0.0062,0.0145,0.0778,0.0428,0.002,0.8567,White
+Ambar N Qavi,0.0011,0.169,0.1286,0.0148,0.001,0.6856,White
+Elsa Kobeissi,0.009,0.0526,0.005,0.0053,4.00E-04,0.9276,White
+Harumi Quezada Yamamoto,0.0019,0.0027,0.9844,1.00E-04,1.00E-04,0.011,API
+Lucy M Miller,6.00E-04,0.012,0.0052,0.0336,0.0018,0.9467,White
+Marisa K Sophiea,2.00E-04,0.0499,0.0115,0.0172,6.00E-04,0.9206,White
+Mark R Skopec,0,0.002,0.001,0.002,2.00E-04,0.9947,White
+Rima Mustafa,0,9.00E-04,0.4177,0.0018,0,0.5796,White
+Ruth O Mccabe,4.00E-04,0.007,0.0023,0.0032,0.005,0.9822,White
+Talia M Boshari,7.00E-04,0.0606,0.0119,0.0448,0.0019,0.8801,White
+Vasiliki Papageorgiou,0,0,0,0,0,1,White
+Rhea N Harewood,0.007,0.1055,0.0325,0.6877,0.0031,0.1642,Black
+Bimandra A Djaafara,8.00E-04,0.0444,0.1485,0.033,0.0017,0.7716,White
+Kathryn Risher,4.00E-04,0.0027,0.0011,0.0404,5.00E-04,0.9549,White
+Ana Catarina Pinho-Gomes,0.001,0.3,0.0333,0.0144,0.0026,0.6487,White
+Sierra N Clark,5.00E-04,0.0038,6.00E-04,0.065,0.0024,0.9277,White
+Neepa H Thacker,0.0049,0.0018,0.1875,0.0083,0.0022,0.7954,White
+Helena J T (Juliette) Unwin,0.0011,0.0098,0.008,0.0016,0.0012,0.9783,White
+Dougal S Hargreaves,3.00E-04,0.001,0.0014,0.0035,5.00E-04,0.9934,White
+Rebecca K Wilson,6.00E-04,0.0051,0.0014,0.0726,0.0023,0.9179,White
+Antje B Metzler,2.00E-04,0.001,5.00E-04,8.00E-04,2.00E-04,0.9974,White
+Cleo Baskin,8.00E-04,0.005,0.0026,0.1764,8.00E-04,0.8144,White
+Emanuela E Boncea,0,0.0026,0,0,0,0.9974,White
+Meryem A Cicek,0,0,0,0,0,1,White
+Max C Denning,4.00E-04,0.0047,0.0022,0.0115,0.0011,0.9802,White
+Oliver D Eales,8.00E-04,0.0184,0.0093,0.0028,2.00E-04,0.9685,White
+Ross D Booton,2.00E-04,0.0019,6.00E-04,0.0019,3.00E-04,0.9951,White
+Rosalie K (Rosie) Singleton,0.0011,0.0153,0.0054,0.1496,0.0014,0.8272,White
+William Green,6.00E-04,0.0031,0.0014,0.1293,0.0015,0.864,White
+David Gibran Lugo Palacios,4.00E-04,0.7958,0.0091,0.0039,0.0014,0.1895,Hispanic
+Matthew D Whitaker,4.00E-04,0.0024,9.00E-04,0.0572,9.00E-04,0.9382,White
+Nadia (Naia) Headland-Vanni,0.0028,0.0821,0.074,0.0434,0.002,0.7957,White
+Olivia H B Boyd,6.00E-04,0.0076,0.0024,0.1014,0.0026,0.8854,White
+Verena Zuber,4.00E-04,0.0027,0.0039,0.0051,3.00E-04,0.9877,White
+Sabine L Van Elsland,7.00E-04,0.0181,0.0092,0.0377,0.0014,0.9328,White
+Aos Alaa,0,4.00E-04,0.0011,0,0,0.9985,White
+Oliver H E Stevens,8.00E-04,0.0099,0.0071,0.0378,0.0037,0.9408,White
+Sara Ahmadi Abhari,0,6.00E-04,0.0012,5.00E-04,0,0.9977,White
+Theo Georgiou-Delisle,7.00E-04,0.025,0.0247,0.0509,0.0023,0.8963,White
+Jennie C Parnham,0.0011,0.0043,0.01,0.0031,2.00E-04,0.9813,White
+Emily V Medcalf,3.00E-04,0.006,0.0024,0.0218,0.0017,0.9677,White
+Consuelo Nohpal De La Rosa,6.00E-04,0.8685,0.0052,0.0017,2.00E-04,0.1238,Hispanic
+Katia Balducci,8.00E-04,0.0569,0.001,0.0023,5.00E-04,0.9386,White
+Justine E Alford,8.00E-04,0.0137,0.0071,0.0847,0.0024,0.8915,White
+Jian Huang,1.00E-04,1.00E-04,0.9996,0,0,2.00E-04,API
+Kris V Parag,0.0052,0.0125,0.2562,0.0059,0.0039,0.7163,White
+Clarissa J Gardner,7.00E-04,0.0203,0.0042,0.0669,0.0025,0.9055,White
+Adrian Gheorghe,0.0024,0.0867,0.0019,0.0015,3.00E-04,0.9072,White
+Alberto Nunez Elvira,0,0.9872,0.001,1.00E-04,3.00E-04,0.0113,Hispanic
+Rami K R Al Jafar,0,7.00E-04,0.0671,0.0029,0,0.9292,White
+Natasha J Croome,3.00E-04,0.0108,0.0059,0.0221,7.00E-04,0.9603,White
+Christina M Lill,3.00E-04,0.0024,0.0053,0.0024,0.001,0.9886,White
+Michaela A C Vollmer,2.00E-04,0.0028,0.0017,5.00E-04,5.00E-04,0.9943,White
+Robert Ashton,4.00E-04,0.0042,0.0013,0.0344,7.00E-04,0.9591,White
+Van Kinh (Kinh) Nguyen,2.00E-04,1.00E-04,0.9981,1.00E-04,0,0.0016,API
+Matthew L Thomas,7.00E-04,0.0039,0.0055,0.1156,0.0025,0.8718,White
+Edward S Knock,0.001,0.0034,0.0128,0.0086,0.0019,0.9724,White
+Yiqun Han,1.00E-04,0,0.9985,0,0,0.0013,API
+Catherine G (Kate) Simpson,6.00E-04,0.0058,0.0041,0.0643,0.0017,0.9234,White
+Emma Lawrance,8.00E-04,0.0138,0.0039,0.0623,0.0031,0.9161,White
+Alexander D V Spiers,5.00E-04,0.0097,0.0047,0.0056,0.0012,0.9783,White
+Rosemary G (Rosie) Maddren,2.00E-04,0.0229,0.0035,0.0155,5.00E-04,0.9573,White
+Ricky S Nathvani,6.00E-04,0.0562,0.1091,0.037,0.0017,0.7954,White
+Rhiannon S Thompson,5.00E-04,0.0032,7.00E-04,0.0559,0.0033,0.9365,White
+Charlotte Vrinten,3.00E-04,0.0346,0.0058,0.0241,0.001,0.9342,White
+Jack M Elkes,1.00E-04,0.0012,0.0014,0.0034,0.0089,0.985,White
+Rakhee Shah,0.0012,1.00E-04,0.9958,1.00E-04,1.00E-04,0.0027,API
+Toqir K Mukhtar,0.0079,2.00E-04,0.949,0.0074,3.00E-04,0.0352,API
+James Nimo,0.001,0.0298,0.1767,0.2022,0.0073,0.5831,White
+Benjamin S Collyer,5.00E-04,0.0091,0.0035,0.002,0.0024,0.9825,White
+Edward W Gregg,5.00E-04,0.0052,0.0024,0.0307,0.0027,0.9585,White
+Alexander R M Lyons,8.00E-04,0.0114,0.0044,0.0561,0.0025,0.9249,White
+Atsumi Hirose,0.0012,2.00E-04,0.9895,1.00E-04,0,0.0089,API
+Swapnil Mishra,0,0,0.9992,0,0,8.00E-04,API
+Victoria M Cox,5.00E-04,0.0082,0.0018,0.037,0.0015,0.9509,White
+Bina Ram,0.0066,0.0038,0.9602,0.0012,4.00E-04,0.0279,API
+Eleanor M (Ellie) Van Vogt,3.00E-04,0.0046,0.0034,0.0018,5.00E-04,0.9894,White
+Hanna-Marie (Hanna) Creese,3.00E-04,0.0108,0.0077,0.0724,1.00E-04,0.9087,White
+Shyam Sundar Budhathoki,1.00E-04,0.0015,0.4552,1.00E-04,0,0.5431,White
+Julia M Brandts,5.00E-04,0.0075,0.0016,0.0047,3.00E-04,0.9855,White
+Georgina E C (Gina) Charnley,9.00E-04,0.0124,0.0048,0.0036,2.00E-04,0.9781,White
+Richard N Belcher,4.00E-04,0.0037,0.0012,0.038,0.001,0.9558,White
+Bethan N Cracknell Daniels,7.00E-04,0.0011,8.00E-04,0.1322,0.0036,0.8617,White
+Iwona Hawryluk,4.00E-04,0.0017,2.00E-04,2.00E-04,1.00E-04,0.9973,White
+Lucy R Williams,0.0013,0.019,0.0065,0.2131,0.0032,0.7568,White
+Marie Line El Asmar,0.0057,0.0307,0.004,0.0036,1.00E-04,0.9559,White
+Olanrewaju A (Lanre) Edun,0,0,0,0.9295,0,0.0704,Black
+Victor P F Lhoste,0,0.016,7.00E-04,7.00E-04,0,0.9825,White
+Katherine M Jia,7.00E-04,0.0039,0.9678,0.0013,7.00E-04,0.0257,API
+Julius W E Ohrnberger,4.00E-04,0.0322,0.0246,0.0247,9.00E-04,0.9173,White
+David M Herr,3.00E-04,0.0035,0.0207,0.0017,4.00E-04,0.9734,White
+Christopher J Harvey,6.00E-04,0.0048,0.0018,0.0811,0.0038,0.9079,White
+Isa Ahmad,0.0206,0.0217,0.7603,0.0301,5.00E-04,0.1669,API
+Mohamed Abbas,0.0383,0.001,0.5198,0.0124,0.0023,0.4262,API
+Sonja N Tang,0.0044,0.0076,0.8009,0.0107,7.00E-04,0.1757,API
+Jack J Halligan,4.00E-04,0.0013,0.0022,0.0011,0.0013,0.9937,White
+Garyfallos Konstantinoudis,2.00E-04,0.0094,0.0172,0.0059,3.00E-04,0.9671,White
+Aamena Bharmal,1.00E-04,3.00E-04,0.6209,0.0356,0,0.3432,API
+Laura V Cooper,5.00E-04,0.0074,0.001,0.0623,0.0017,0.9271,White
+Christopher B Uzzell,5.00E-04,0.0055,0.0016,0.1303,8.00E-04,0.8612,White
+John A Lees,3.00E-04,0.0025,0.0052,0.0032,0.001,0.9878,White
+Heidi T M Lai,0.0023,0.0043,0.8612,0.0012,0.0011,0.1301,API
+Benjamin Barratt,9.00E-04,0.0066,0.0062,0.0261,0.0014,0.9587,White
+David Green,7.00E-04,0.0059,0.0018,0.1197,0.0016,0.8703,White
+Gary Fuller,5.00E-04,0.0013,0.0014,0.0542,0.0012,0.9415,White
+Leon Barron,6.00E-04,0.0895,0.0063,0.0524,0.0018,0.8495,White
+Sean Beevers,3.00E-04,0.0041,0.0014,0.0053,6.00E-04,0.9883,White
+Ian Mudway,2.00E-04,0.0105,0.0075,0.0136,5.00E-04,0.9677,White
+Martin Williams,0.0011,0.0202,0.003,0.1691,0.0028,0.8038,White
+Stephanie Wright,6.00E-04,0.0076,0.0016,0.0881,0.0016,0.9005,White
+Frank Kelly,4.00E-04,0.0074,0.0024,0.0405,0.0012,0.948,White
+Katie Tiley,5.00E-04,9.00E-04,2.00E-04,0.002,0.0013,0.995,White
+Allison Gaines,8.00E-04,0.0034,0.0012,0.1873,0.0016,0.8056,White
+Celine Tabche,0.0011,0.0895,0.1065,0.0306,0.0022,0.7701,White
+Vanessa Marvin,7.00E-04,0.0303,0.0032,0.0166,0.0037,0.9455,White
+Puji Faitna,0,7.00E-04,0.8745,1.00E-04,0,0.1248,API
+Giovanni Forchini,3.00E-04,0.2301,0.0098,0.008,6.00E-04,0.7512,White
+Devendra Meena,0.0088,0.0018,0.698,0.0029,0.0061,0.2823,API
+Misghina T Weldegiorgis,1.00E-04,0.0028,0.0029,0.7555,1.00E-04,0.2386,Black
+Nuno Miguel R P (Nuno) Faria,0.0101,0.1286,0.0085,0.0013,6.00E-04,0.8509,White
+David Dajnak,5.00E-04,0.0393,0.0164,0.0362,0.0017,0.9059,White
+Heather A Walton,5.00E-04,0.0019,5.00E-04,0.0983,0.0011,0.8977,White
+Diana Varaden,2.00E-04,0.0447,0.008,0.0097,6.00E-04,0.9369,White
+Eleni Kleanthi (Klea) Katsouyanni,0,0.0043,2.00E-04,0.0012,0,0.9943,White
+Wendy Kwok,9.00E-04,0.0028,0.9527,8.00E-04,6.00E-04,0.0422,API
+Christina N Kyriakos,0.001,0.0031,0.0014,0.0017,3.00E-04,0.9924,White
+Nosha Assareh,9.00E-04,0.0089,0.0218,0.0183,7.00E-04,0.9494,White
+Caroline E Crandell,5.00E-04,0.0046,0.0019,0.0248,0.0013,0.9668,White
+Julia C Fussell,4.00E-04,0.0059,0.0023,0.0311,6.00E-04,0.9598,White
+Dragana Vuckovic,0,1.00E-04,1.00E-04,0,0,0.9999,White
+Manjinder S Sandhu,0.0028,1.00E-04,0.996,0,2.00E-04,8.00E-04,API
+Zhangyi He,1.00E-04,8.00E-04,0.9901,4.00E-04,1.00E-04,0.0085,API
+Xi Lu,2.00E-04,7.00E-04,0.9922,2.00E-04,0,0.0066,API
+William A Hicks,5.00E-04,0.0023,0.0013,0.0839,0.0021,0.9098,White
+Shanon Lim,0.0038,0.0052,0.8525,0.0032,8.00E-04,0.1345,API
+Hanbin Zhang,0,0,0.9998,0,0,1.00E-04,API
+Keng Tiong Ng,3.00E-04,2.00E-04,0.9987,0,0,8.00E-04,API
+Tuan V Vu,1.00E-04,0,0.9996,0,0,3.00E-04,API
+Ana Oliete,5.00E-04,0.5921,0.0154,0.0065,0.0012,0.3844,Hispanic
+Anja H Tremper,4.00E-04,0.0016,3.00E-04,2.00E-04,5.00E-04,0.9971,White
+Brendan Bos,2.00E-04,0.0015,0.0015,9.00E-04,5.00E-04,0.9955,White
+Dylan C T Wood,4.00E-04,0.0019,0.0013,0.0126,0.0016,0.9823,White
+Joseph M Levermore,2.00E-04,0.0147,0.0065,0.0142,5.00E-04,0.9639,White
+Gregor Stewart,5.00E-04,0.0019,0.001,0.0396,0.0016,0.9554,White
+Carl Desouza,0.0071,0.0224,0.0674,0.0725,8.00E-04,0.8299,White
+Dimitris Evangelopoulos,0,0,0,0,0,0.9999,White
+Marzieh Araghi,0,1.00E-04,0.0013,0,0,0.9987,White
+Mark Woodward,4.00E-04,0.0031,0.0024,0.0103,0.001,0.9828,White
+Rosemary C Chamberlain,4.00E-04,0.0108,0.0014,0.0157,0.0016,0.97,White
+David C S Tang,0.0018,0.0063,0.9133,0.0038,3.00E-04,0.0745,API
+Jonathan Ciofani,4.00E-04,0.0096,0.002,0.0046,3.00E-04,0.9831,White
+Richard A Powell,6.00E-04,0.004,0.0018,0.0769,0.0013,0.9155,White
+Anthony Rodgers,6.00E-04,0.0095,0.0023,0.0808,0.0015,0.9052,White
+Robyn N Norton,3.00E-04,0.0015,7.00E-04,0.0157,0.002,0.9799,White
+Sanne A E Peters,4.00E-04,0.0024,0.0034,0.0045,0.0019,0.9874,White
+Simon Finfer,4.00E-04,0.0174,0.0305,0.0398,8.00E-04,0.9111,White
+Stephen W Macmahon,7.00E-04,0.0019,0.0049,0.0024,0.0013,0.9889,White
+Vivekanand (Vivek) Jha,6.00E-04,0,0.9981,1.00E-04,0,0.0012,API
+Margaret M (Margie) Peden,3.00E-04,0.0022,0.0018,0.0241,7.00E-04,0.9708,White
+Prasanthi Attwood,0,6.00E-04,0.1115,4.00E-04,1.00E-04,0.8873,White
+Behrouz M Nezafat Maldonado,0,0.0792,0.002,0,0,0.9187,White
+Jacob N Stapley,3.00E-04,0.0048,6.00E-04,7.00E-04,0.0011,0.9924,White
+Zaid Alsafi,1.00E-04,2.00E-04,0.0017,5.00E-04,0,0.9974,White
+Kai Hon Tang,4.00E-04,5.00E-04,0.9904,5.00E-04,0,0.0081,API
+Leonid Chindelevitch,0,0.0091,0.0011,0.0021,0,0.9876,White
+Rachel T Esra,0,6.00E-04,0.0125,0.0227,0,0.9642,White
+Connor Shiqu (Connor) Qiu,0.0013,0.0016,0.9456,0.002,0.0011,0.0484,API
+Chandni Hindocha,0,1.00E-04,0.817,0.004,0,0.1788,API
+Melanie Egli,3.00E-04,0.0051,0.0012,8.00E-04,8.00E-04,0.9919,White
+Michaela Otis,5.00E-04,0.0046,0.002,0.0481,0.0012,0.9437,White
+Samuel J Hemmings,0.0016,0.0205,0.0022,0.2495,8.00E-04,0.7253,White
+Sandeepa Arora,0,0,0.9937,0,0,0.0062,API
+Emily Van Blankenstein,2.00E-04,0.0026,9.00E-04,0.0011,2.00E-04,0.9951,White
+Nieves Derqui,4.00E-04,0.6853,0.0286,0.008,0.0011,0.2767,Hispanic
+Kent Buse,3.00E-04,0.0012,0.0053,0.0025,6.00E-04,0.9901,White
+Petya Atanasova,0,5.00E-04,0,0,0,0.9995,White
+Ines C G Gerard-Ursin,9.00E-04,0.2365,0.0253,0.0161,0.0017,0.7194,White
+Ricardo Ribas,4.00E-04,0.8937,0.0123,6.00E-04,6.00E-04,0.0924,Hispanic
+Carinna Hockham,2.00E-04,0.0244,0.0049,0.0056,5.00E-04,0.9644,White
+Halle Johnson,6.00E-04,0.0021,0.0011,0.1207,0.0022,0.8732,White
+Nilani Chandradeva,4.00E-04,0.0234,0.0425,0.0204,9.00E-04,0.9125,White
+Alexander G Smith,8.00E-04,0.0121,0.004,0.0694,0.0024,0.9113,White
+Hassan Fawi,0.0022,0.0054,0.0601,0.0176,6.00E-04,0.9141,White
+Sara Valente De Almeida,0.0067,0.1049,0.02,0.0069,5.00E-04,0.8611,White
+Georgios Markozannes,0,4.00E-04,2.00E-04,0,0,0.9994,White
+Sarah A Cook,5.00E-04,0.0025,0.0017,0.0303,0.0017,0.9633,White
+Leila Janani,1.00E-04,0.0036,0.138,0.0168,0,0.8415,White
+Raphael E B Sonabend,5.00E-04,0.1749,0.0256,0.0349,0.0012,0.7629,White
+Helena L Rapp Wright,0.001,0.0056,0.0047,0.0949,0.0022,0.8916,White
+Rasha Mezher-Sikafi,0.0059,0.0148,0.0711,0.042,0.0019,0.8643,White
+Beatriz Galindo-Prieto,7.00E-04,0.5008,0.0271,0.012,0.0021,0.4572,Hispanic
+Graham M Wheeler,4.00E-04,0.001,7.00E-04,0.0364,0.0019,0.9595,White
+Loukas Zagkos,0,7.00E-04,0,0,0,0.9993,White
+Mathuramat Seesen,0,0.0057,0.0065,0.0188,0,0.9689,White
+Dorota Chapko,0,4.00E-04,0,0,0,0.9996,White
+Sarah Mckevitt,1.00E-04,0.0027,0.0017,5.00E-04,1.00E-04,0.9948,White
+Elizabeth J Gray,6.00E-04,0.0102,0.0017,0.0718,0.002,0.9137,White
+Anupam N (Anu) Mishra,0.001,0,0.9978,0,0,0.0011,API
+Joyce O Akello,0,7.00E-04,6.00E-04,0.4556,0,0.543,White
+Nerea Becerra Tomas,0.0012,0.5472,0.1008,0.0137,0.001,0.3361,Hispanic
+Luzia Tomas Freitas,0.0093,0.0328,0.0233,8.00E-04,2.00E-04,0.9335,White
+Hillary M Topazian,6.00E-04,0.0252,0.0143,0.041,0.0018,0.917,White
+Thomas E Rawson,3.00E-04,0.0014,0.002,0.0026,6.00E-04,0.9931,White
+Sukriti Kc,0.002,1.00E-04,0.9925,1.00E-04,0,0.0052,API
+Matteo Pianella,2.00E-04,0.0209,0.0042,0.0033,3.00E-04,0.9711,White
+Sequoia I Leuba,2.00E-04,0.0052,0.0014,0.0224,9.00E-04,0.97,White
+Chu-Chang Ku,0.0016,0.0177,0.9435,6.00E-04,0,0.0366,API
+Lan Cheng,1.00E-04,1.00E-04,0.9993,0,0,5.00E-04,API
+Cyril Geismar,7.00E-04,0.0185,0.0203,0.0029,4.00E-04,0.9571,White
+Benjamin Amoah,0.0037,0.0093,0.0114,0.8676,5.00E-04,0.1074,Black
+Victoria G Collin,6.00E-04,0.0292,0.0054,0.0541,9.00E-04,0.9099,White
+Amen-Patrick Nwosu,0.0088,0.0106,0.0113,0.8948,0.0022,0.0724,Black
+Amelia Schricker,6.00E-04,0.0051,0.0051,0.0023,2.00E-04,0.9869,White
+Kenneth Ekoru,6.00E-04,0.0214,0.0195,0.0483,0.0018,0.9084,White
+Anna-Maria Hartner,3.00E-04,0.0032,6.00E-04,7.00E-04,5.00E-04,0.9947,White
+Megan E Brown,6.00E-04,0.0024,0.001,0.0984,0.0019,0.8957,White
+Kouassivi Elom Aglago,1.00E-04,0.0056,0.005,0.0446,2.00E-04,0.9445,White
+Joseph T Hicks,7.00E-04,0.0054,0.0023,0.0826,0.0023,0.9067,White
+Florence N Mutlow,3.00E-04,0.0139,0.0164,0.0253,7.00E-04,0.9434,White
+Ruth E Parsons,5.00E-04,0.0062,0.0017,0.0095,0.0011,0.9811,White
+Debebe Shaweno Adewo,3.00E-04,0.0195,0.0168,0.349,7.00E-04,0.6137,White
+Tristan M Naidoo,0.0302,0.0051,0.624,0.0671,0.0026,0.2711,API
+Jessica Newberry Le Vay,3.00E-04,0.0115,0.1226,0.0029,0.0019,0.8608,White
+Mohammed I Mead,0.0063,0.0022,0.0317,0.0097,0.0021,0.9481,White
+Vinicius Franceschi,6.00E-04,0.3435,0.0011,0.0011,3.00E-04,0.6533,White
+Elli Bourmpaki,7.00E-04,0.0361,0.0232,0.0281,0.0015,0.9104,White
+Ingra Morales Claro,0.0022,0.1683,0.0544,0.0087,0.0031,0.7632,White
+Aminata Sy,0.0094,8.00E-04,0.5829,0.3338,0.0022,0.0709,API
+Darlan Da Silva Candido,0.0039,0.3552,0.0809,0.0029,0,0.557,White
+Christian Morgenstern,6.00E-04,0.0172,0.0041,7.00E-04,6.00E-04,0.9767,White
+Keivan Ahmadi,1.00E-04,0,0.0035,0,0,0.9964,White
+Abeer M Arif,0.0216,5.00E-04,0.8917,0.0039,0.001,0.0813,API
+Annie E Wright,9.00E-04,0.0049,0.0087,0.1033,0.0018,0.8803,White
+Kelly Mccain,6.00E-04,0.0027,0.0016,0.0815,0.001,0.9127,White
+Annabelle Painter,5.00E-04,0.0092,0.01,0.0021,0.0022,0.976,White
+Gang Chen,1.00E-04,0,0.9991,0,0,7.00E-04,API
+Agalya Ramanathan,3.00E-04,3.00E-04,0.99,3.00E-04,1.00E-04,0.0089,API
+Ronald Olum,0,7.00E-04,0.0014,0.6141,0,0.3838,Black
+Shazia N Ruybal-Pesantez,0.0082,0.016,0.4104,0.0371,0.0027,0.5255,White
+Kristine Belesova,8.00E-04,0.0779,0.0553,0.0244,0.0017,0.8399,White
+Laura J Knight,5.00E-04,0.0074,0.001,0.0489,0.0015,0.9406,White
+Clement Twumasi,0.0013,0.0021,0.0385,0.8859,9.00E-04,0.0712,Black
+Judite Goncalves,0.0307,0.0771,0.0011,0.0069,3.00E-04,0.8839,White
+Lydia M Haile,0.0028,0.0138,0.0109,0.2002,0.0014,0.7709,White
+Yunzhe Liu,3.00E-04,6.00E-04,0.9915,1.00E-04,0,0.0075,API
+Amnah Mirza,0.0129,7.00E-04,0.9384,6.00E-04,2.00E-04,0.0473,API
+Sandor Beregi,2.00E-04,0.0117,0.0032,0.0035,4.00E-04,0.9811,White
+Ibrahim K Maikore,0,2.00E-04,0.0016,0.8083,0,0.1898,Black
+Pallavi Nair,9.00E-04,0,0.9925,1.00E-04,1.00E-04,0.0064,API
+Steven J Campbell,5.00E-04,0.004,0.0024,0.0512,0.0014,0.9405,White
+Mihaly Koltai,0,0.0011,1.00E-04,1.00E-04,0,0.9988,White

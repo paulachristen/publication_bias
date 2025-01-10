@@ -1,0 +1,684 @@
+"Name","webname","first_name","last_name","job_title","job_title2","short_job_title","first_last_name","job_title_az"
+"HANCOCK, Penelope A (Penny)","p.hancock","Penelope","HANCOCK","Lecturer in Biostatistics / Epidemiology (Non Clinical)",NA,"Dr","penelope hancock",NA
+"BLANE, David","d.blane","David","BLANE","Emeritus Professor",NA,"Emeritus Professor","david blane",NA
+"HALLETT, Timothy B","timothy.hallett","Timothy","HALLETT","Professor of Global Health",NA,"Professor","timothy hallett","Professor of Global Health"
+"CAUCHEMEZ, Simon","s.cauchemez","Simon","CAUCHEMEZ","Visiting Reader",NA,"Dr","simon cauchemez","Visiting Reader"
+"RIBOLI, Elio","e.riboli","Elio","RIBOLI","Chair in Cancer Epidemiology and Prevention",NA,"Professor","elio riboli",NA
+"RUSHTON, Lesley","l.rushton","Lesley","RUSHTON","Emeritus Reader of Occupational Epidemiology",NA,"Dr","lesley rushton","Emeritus Reader of Occupational Epidemiology"
+"DAVIES, Nicolette W","nicolette.davies","Nicolette","DAVIES",NA,NA,NA,"nicolette davies",NA
+"TAGHAVI AZAR SHARABIANI, Mansour","mansour.taghavi-azar-sharabiani05","Mansour","TAGHAVI AZAR SHARABIANI",NA,NA,NA,"mansour taghavi azar sharabiani",NA
+"TRUSCOTT, James E","j.truscott","James","TRUSCOTT","Honorary Senior Research Fellow",NA,"Dr","james truscott","Honorary Senior Research Fellow"
+"BOILY, Marie-Claude","mc.boily","Marie-Claude","BOILY","Professor of Mathematical Epidemiology",NA,"Professor","marie-claude boily","Professor of Mathematical Epidemiology"
+"FISHER, Matthew","matthew.fisher","Matthew","FISHER","Professor of Fungal Disease Epidemiology","Professor Matthew Fisher ",NA,"matthew fisher","Professor of Fungal Disease Epidemiology"
+"HEARD, Andrew H (Andy)","a.heard","Andrew","HEARD","Database Manager",NA,"Mr","andrew heard",NA
+"SAXENA, Sonia","s.saxena","Sonia","SAXENA","Professor of Primary Care",NA,"Professor","sonia saxena",NA
+"BLANGIARDO, Marta A G","m.blangiardo","Marta","BLANGIARDO","Chair in Biostatistics",NA,"Professor","marta blangiardo","Chair in Biostatistics"
+"MAINI, Arti","a.maini","Arti","MAINI","Director of Undergraduate Primary Care Education",NA,"Dr","arti maini","Director of Undergraduate Primary Care Education"
+"WALLEY, Andrew J","a.walley","Andrew","WALLEY",NA,NA,NA,"andrew walley",NA
+"DABY, Hridayanayaki I (Hima)","h.daby","Hridayanayaki","DABY","Data and Information Services Manager","Mrs Hridayanayaki Hima Daby",NA,"hridayanayaki daby",NA
+"WHITE, Peter J","p.white","Peter","WHITE","Professor of Public Health Modelling",NA,"Professor","peter white","Professor of Public Health Modelling"
+"KALUARACHCHI SODEN, Manuja R","manuja.kaluarachchi","Manuja","KALUARACHCHI SODEN",NA,NA,NA,"manuja kaluarachchi soden",NA
+"GNANI, Shamini","s.gnani","Shamini","GNANI","Senior Clinical Teaching Fellow",NA,"Dr","shamini gnani","Senior Clinical Teaching Fellow"
+"FENWICK, Alan","a.fenwick","Alan","FENWICK","Emeritus Professor","Professor Alan Fenwick OBE",NA,"alan fenwick",NA
+"MURRAY-THOMAS, Tarita","t.murray-thomas","Tarita","MURRAY-THOMAS",NA,NA,NA,"tarita murray-thomas",NA
+"FROGUEL, Philippe","p.froguel","Philippe","FROGUEL","Chair in Genomic Medicine",NA,"Professor","philippe froguel",NA
+"WEBSTER, Joanne P","joanne.webster","Joanne","WEBSTER","Visiting Professor","Joanne P. Webster",NA,"joanne webster",NA
+"UTHAYA, Sabita N","s.uthaya","Sabita","UTHAYA","Honorary Clinical Senior Lecturer","Dr Sabita Uthaya",NA,"sabita uthaya","Honorary Clinical Senior Lecturer"
+"FECHT, Daniela","d.fecht","Daniela","FECHT","Senior Lecturer",NA,"Dr","daniela fecht","Senior Lecturer"
+"SAMARASUNDERA, Edgar","e.samarasundera","Edgar","SAMARASUNDERA","Honorary Research Officer",NA,"Mr","edgar samarasundera","Honorary Research Officer"
+"AANENSEN, David","d.aanensen","David","AANENSEN","Visiting Professor",NA,"Dr","david aanensen","Visiting Professor"
+"ELIAHOO, Joseph","j.eliahoo","Joseph","ELIAHOO","Statistical Consultant",NA,"Mr","joseph eliahoo",NA
+"OGUNDIPE, Enitan","e.ogundipe","Enitan","OGUNDIPE",NA,NA,NA,"enitan ogundipe","Honorary Clinical Senior Lecturer"
+"DRAKE, Lesley","lesley.drake","Lesley","DRAKE","Exec Director - Partnership for Child Development",NA,"Dr","lesley drake","Exec Director - Partnership for Child Development"
+"GRASSLY, Nicholas C","n.grassly","Nicholas","GRASSLY","Prof of Infectious Disease & Vaccine Epidemiology",NA,"Professor","nicholas grassly","Prof of Infectious Disease & Vaccine Epidemiology"
+"BROWN, Ian J","ian.j.brown","Ian","BROWN",NA,NA,NA,"ian brown",NA
+"CAR, Josip","josip.car","Josip","CAR","Reader in Primary Care and eHealth",NA,"Dr","josip car","Reader in Primary Care and eHealth"
+"WILLIAMS, John R","jr.williams","John","WILLIAMS",NA,NA,NA,"john williams","Visiting Researcher"
+"MILLER, Marie L E","m.miller","Marie","MILLER","Public Involvement Coordinator",NA,"Mrs","marie miller","Public Involvement Coordinator"
+"HOLLINGSWORTH, Teresa D (Deirdre)","d.hollingsworth","Teresa","HOLLINGSWORTH","Honorary Lecturer","Professor Deirdre Hollingsworth",NA,"teresa hollingsworth",NA
+"MAJEED, Farrukh A (Azeem)","a.majeed","Farrukh","MAJEED","Chair - Primary Care and Public Health & Head of Department","PROFESSOR AZEEM MAJEED",NA,"farrukh majeed",NA
+"SASIKARAN, Thiagarajah","t.sasikaran","Thiagarajah","SASIKARAN","Deputy Operations Manager",NA,"Dr","thiagarajah sasikaran","Deputy Operations Manager"
+"VINEIS, Paolo","p.vineis","Paolo","VINEIS","Chair in Environmental Epidemiology",NA,"Professor","paolo vineis","Chair in Environmental Epidemiology"
+"GREGSON, Simon","s.gregson","Simon","GREGSON","Professor in Demography and Behavioural Science",NA,"Professor","simon gregson","Professor in Demography and Behavioural Science"
+"RILEY, Steven","s.riley","Steven","RILEY","Professor of Infectious Disease Dynamics","Steven Riley",NA,"steven riley","Professor of Infectious Disease Dynamics"
+"HANSELL, Anna L","a.hansell","Anna","HANSELL","Visiting Professor",NA,"Professor","anna hansell","Visiting Professor"
+"BASANEZ, Maria-Gloria","m.basanez","Maria-Gloria","BASANEZ","Professor of Neglected Tropical Diseases",NA,"Professor","maria-gloria basanez","Professor of Neglected Tropical Diseases"
+"BOTTLE, Robert A (Alex)","robert.bottle","Robert","BOTTLE","Professor of Medical Statistics","Alex Bottle",NA,"robert bottle",NA
+"FRASER, Christophe","c.fraser","Christophe","FRASER","Visiting Professor",NA,"Professor","christophe fraser","Visiting Professor"
+"DE WOLF, Frank","f.dewolf","Frank","DE WOLF","Chair in Clinical Retrovirology",NA,"Professor","frank de wolf",NA
+"BLAIR, Mitchel E (Mitch)","m.blair","Mitchel","BLAIR","Professor of Paediatrics & Child Public Health","Professor Mitch Blair",NA,"mitchel blair",NA
+"JARVELIN, Marjo-Riitta","m.jarvelin","Marjo-Riitta","JARVELIN","Chair in Lifecourse Epidemiology",NA,"Professor","marjo-riitta jarvelin","Chair in Lifecourse Epidemiology"
+"TZALA, Evangelia","e.tzala","Evangelia","TZALA",NA,NA,NA,"evangelia tzala","Honorary Senior Research Fellow"
+"TOLEDANO, Mireille B","m.toledano","Mireille","TOLEDANO","Mohn Chair; Population Child Health & Director-Mohn Centre","Professor Mireille B Toledano",NA,"mireille toledano","Mohn Chair; Population Child Health & Director-Mohn Centre"
+"MODI, Neena","n.modi","Neena","MODI","Vice-Dean (International Activities) Faculty of Medicine",NA,"Professor","neena modi","Vice-Dean (International Activities) Faculty of Medicine"
+"FERGUSON, Neil M","neil.ferguson","Neil","FERGUSON","Vice-Dean (Academic Development)","Professor Neil Ferguson",NA,"neil ferguson","Vice-Dean (Academic Development)"
+"DONNELLY, Christl A","c.donnelly","Christl","DONNELLY","Visiting Professor","Professor Christl Donnelly CBE FMedSci FRS",NA,"christl donnelly",NA
+"BALDING, David J","d.balding","David","BALDING",NA,NA,NA,"david balding",NA
+"RICHARDSON, Sylvia","sylvia.richardson","Sylvia","RICHARDSON","Visiting Professor",NA,"Professor","sylvia richardson","Visiting Professor"
+"CHAN, Queenie","q.chan","Queenie","CHAN","Honorary Senior Research Fellow",NA,"Dr","queenie chan","Honorary Senior Research Fellow"
+"SPRATT, Brian G","b.spratt","Brian","SPRATT","Emeritus Professor","Professor Brian G Spratt FRS",NA,"brian spratt",NA
+"CHAMBERS, John C","john.chambers","John","CHAMBERS","Professor of Cardiovascular Epidemiology",NA,"Professor","john chambers","Professor of Cardiovascular Epidemiology"
+"COWAN, Frances M","f.cowan","Frances","COWAN",NA,NA,NA,"frances cowan","Honorary Senior Lecturer"
+"JOFFE, Michael","m.joffe","Michael","JOFFE","Emeritus Reader",NA,"Dr","michael joffe","Emeritus Reader"
+"ELLIOTT, Paul","p.elliott","Paul","ELLIOTT","Chair in Epidemiology and Public Health Medicine",NA,"Professor","paul elliott",NA
+"WELLS, Jennifer A","j.a.wells","Jennifer","WELLS",NA,NA,NA,"jennifer wells","Personal Assistant to Head of Department"
+"BENNETT, James E","umahx99","James","BENNETT","Statistical Manager",NA,"Dr","james bennett","Statistical Manager"
+"DAY, Sophie","s.day","Sophie","DAY","Principal Research Fellow",NA,"Professor","sophie day","Principal Research Fellow"
+"JARMAN, Brian","b.jarman","Brian","JARMAN","Emeritus Professor",NA,"Emeritus Professor","brian jarman",NA
+"PETERS, Ruth","r.peters","Ruth","PETERS","Honorary Research Fellow",NA,"Dr","ruth peters","Honorary Research Fellow"
+"AYLIN, Paul P","p.aylin","Paul","AYLIN","Professor of Epidemiology and Public Health",NA,"Professor","paul aylin","Professor of Epidemiology and Public Health"
+"POULTER, Neil R","n.poulter","Neil","POULTER","Professor of Preventive Cardiovascular Medicine.","Professor Neil Poulter",NA,"neil poulter","Professor of Preventive Cardiovascular Medicine."
+"DE ZULUETA, Paquita C","p.dezulueta","Paquita","DE ZULUETA",NA,NA,NA,"paquita de zulueta",NA
+"MUIR, Elizabeth H","e.muir","Elizabeth","MUIR","Clinical Senior Lecturer",NA,"Dr","elizabeth muir","Clinical Senior Lecturer"
+"WARD, Helen","h.ward","Helen","WARD","Professor of Public Health",NA,"Professor","helen ward","Professor of Public Health"
+"ANDERSON, Roy M","roy.anderson","Roy","ANDERSON","Professor in Infectious Disease Epidemiology","Professor Sir Roy Anderson FRS, FMedSci",NA,"roy anderson",NA
+"GILLON, Raanan","raanan.gillon","Raanan","GILLON","Emeritus Professor of Medical Ethics",NA,"Emeritus Professor","raanan gillon",NA
+"STIMSON, Gerald V (Gerry)","g.stimson","Gerald","STIMSON",NA,NA,NA,"gerald stimson",NA
+"O'HANLON, Simon J","simon.ohanlon","Simon","O'HANLON",NA,NA,NA,"simon o'hanlon",NA
+"NEWSON, Roger B","r.newson","Roger","NEWSON","Honorary Research Associate",NA,"Dr","roger newson","Honorary Research Associate"
+"BELL, Derek","d.bell","Derek","BELL","Emeritus Professor in Acute Medicine",NA,"Emeritus Professor","derek bell",NA
+"CHURCHER, Thomas S","thomas.churcher","Thomas","CHURCHER","Professor of Infectious Disease Dynamics",NA,"Professor","thomas churcher","Professor of Infectious Disease Dynamics"
+"HINSLEY, Westley R (Wes)","w.hinsley","Westley","HINSLEY","GIS/Database/HPTC Analyst Tech Support","DR WES HINSLEY",NA,"westley hinsley",NA
+"CURCIN, Vasa","vasa.curcin","Vasa","CURCIN","Honorary Lecturer",NA,"Dr","vasa curcin","Honorary Lecturer"
+"SMITH, Jennifer A","jennifer.smith","Jennifer","SMITH","Honorary Research Fellow",NA,"Dr","jennifer smith","Honorary Research Fellow"
+"BLAKE, Isobel M","isobel.blake","Isobel","BLAKE","Lecturer",NA,"Dr","isobel blake","Lecturer"
+"SMITH, Rachel B","rachel.smith05","Rachel","SMITH","Research Fellow in Population Child Health",NA,"Dr","rachel smith","Research Fellow in Population Child Health"
+"NORAT, Teresa","t.norat","Teresa","NORAT","Academic Visitor",NA,"Dr","teresa norat","Academic Visitor"
+"PICKLES, Michael R EH","m.pickles","Michael","PICKLES","Research Fellow",NA,"Dr","michael pickles","Research Fellow"
+"TZOULAKI, Ioanna","i.tzoulaki","Ioanna","TZOULAKI","Professor of Chronic Disease Epidemiology","Dr Ioanna (Joanna) Tzoulaki",NA,"ioanna tzoulaki","Professor of Chronic Disease Epidemiology"
+"LAMBERTON, Poppy H L","poppy.lamberton","Poppy","LAMBERTON","Honorary Senior Lecturer",NA,"Dr","poppy lamberton","Honorary Senior Lecturer"
+"NYAMUKAPA, Constance","c.nyamukapa03","Constance","NYAMUKAPA",NA,NA,NA,"constance nyamukapa","Research Associate"
+"WALKER, Martin","m.walker06","Martin","WALKER","Honorary Senior Lecturer",NA,"Dr","martin walker","Honorary Senior Lecturer"
+"PILLAS, Demetris","d.pillas06","Demetris","PILLAS",NA,NA,NA,"demetris pillas","Honorary Research Associate"
+"ASTLE, William J","william.astle","William","ASTLE","Casual - Academic Professional",NA,"Dr","william astle","Casual - Academic Professional"
+"PHILLIPS, Anna E","a.phillips05","Anna","PHILLIPS","Honorary Senior Lecturer",NA,"Dr","anna phillips","Honorary Senior Lecturer"
+"DAVIES, Bethan","bethan.davies06","Bethan","DAVIES","Clinical Senior Lecturer in Epidemiology",NA,"Dr","bethan davies","Clinical Senior Lecturer in Epidemiology"
+"MILLETT, Christopher J","c.millett","Christopher","MILLETT","Professor of Public Health",NA,"Professor","christopher millett","Professor of Public Health"
+"NEWTH, Aisha","a.newth","Aisha","NEWTH","Honorary Clinical Senior Lecturer","Dr Aisha Newth",NA,"aisha newth","Honorary Clinical Senior Lecturer"
+"CHADEAU, Marc","m.chadeau","Marc","CHADEAU","Professor of Computational Epidemiology and Biostatistics","Prof Marc Chadeau-Hyam",NA,"marc chadeau","Professor of Computational Epidemiology and Biostatistics"
+"GARSKE, Tina (Tini)","t.garske","Tina","GARSKE","Senior Lecturer","Dr Tini Garske",NA,"tina garske",NA
+"PRECHTL, Christina","c.prechtl","Christina","PRECHTL","Operations Manager - Clinical Research",NA,"Dr","christina prechtl","Operations Manager - Clinical Research"
+"MIDDLETON, Lefkos T","l.middleton","Lefkos","MIDDLETON","Chair in Clinical Neurology","Chair in Neurology, Neuroepidemiology and Ageing ",NA,"lefkos middleton",NA
+"CASE, Kelsey","k.case","Kelsey","CASE","Honorary Research Fellow","Dr Kelsey Case",NA,"kelsey case","Honorary Research Fellow"
+"LOGAN, Karen M","k.logan","Karen","LOGAN",NA,NA,NA,"karen logan","Honorary Research Associate"
+"LAU, Chung Ho (Chungho)","chungho.lau","Chung","LAU","Research Associate",NA,"Dr","chung lau",NA
+"CHAN, Doris S M","d.chan","Doris","CHAN","Research Fellow in Nutrition","Dr Doris SM Chan",NA,"doris chan","Research Fellow in Nutrition"
+"KIRU, Gayithri (Gaia)","g.kiru","Gayithri","KIRU","Head of Operations and Partnerships","Dr Gaia Kiru",NA,"gayithri kiru",NA
+"ASARIA, Perviz","p.asaria","Perviz","ASARIA","Consultant Cardiologist",NA,"Dr","perviz asaria","Consultant Cardiologist"
+"GHANI, Azra C H","a.ghani","Azra","GHANI","Chair in Infectious Disease Epidemiology",NA,"Professor","azra ghani","Chair in Infectious Disease Epidemiology"
+"FORTUNATO, Lea","l.fortunato","Lea","FORTUNATO",NA,NA,NA,"lea fortunato",NA
+"KONTIS, Vasilis","v.kontis","Vasilis","KONTIS","Honorary Research Associate","Vasilis Kontis",NA,"vasilis kontis","Honorary Research Associate"
+"SOLJAK, Michael A","m.soljak","Michael","SOLJAK","Honorary Clinical Research Fellow",NA,"Dr","michael soljak","Honorary Clinical Research Fellow"
+"LAZZARINO, Antonio I","a.lazzarino","Antonio","LAZZARINO","Research Fellow",NA,"Dr","antonio lazzarino","Research Fellow"
+"ZHANG, Weihua","weihua.zhang","Weihua","ZHANG","Honorary Research Associate",NA,"Dr","weihua zhang",NA
+"BORQUEZ, Annick B","annick.borquez06","Annick","BORQUEZ","Honorary Research Associate",NA,"Dr","annick borquez","Honorary Research Associate"
+"WALKER, Patrick G T","patrick.walker06","Patrick","WALKER","Senior Lecturer",NA,"Dr","patrick walker","Senior Lecturer"
+"BAGGALEY, Rebecca F","r.baggaley","Rebecca","BAGGALEY","Honorary Research Fellow",NA,"Dr","rebecca baggaley","Honorary Research Fellow"
+"WOODCOCK, Thomas","thomas.woodcock99","Thomas","WOODCOCK","Senior Research Fellow","Dr Thomas Woodcock",NA,"thomas woodcock","Senior Research Fellow"
+"WARK, Petra","p.wark","Petra","WARK","Honorary Senior Lecturer in eHealth",NA,"Dr","petra wark","Honorary Senior Lecturer in eHealth"
+"MILLWOOD, Iona","i.millwood","Iona","MILLWOOD",NA,NA,NA,"iona millwood",NA
+"VAN KERKHOVE, Maria","m.vankerkhove","Maria","VAN KERKHOVE","Honorary Lecturer","Dr Maria D Van Kerkhove",NA,"maria van kerkhove",NA
+"RAI, Tanvi","tanvi.rai07","Tanvi","RAI","Visiting Researcher","Dr Tanvi Rai",NA,"tanvi rai","Visiting Researcher"
+"EATON, Jeffrey W","jeffrey.eaton","Jeffrey","EATON","Senior Research Fellow","Jeff Eaton",NA,"jeffrey eaton","Senior Research Fellow"
+"EXPERT, Paul","paul.expert08","Paul","EXPERT","Honorary Research Associate",NA,"Dr","paul expert","Honorary Research Associate"
+"ASHBY, Deborah","deborah.ashby","Deborah","ASHBY","Director of the School of Public Health",NA,"Professor","deborah ashby","Director of the School of Public Health"
+"RAWAF, Salman","s.rawaf","Salman","RAWAF","Director of WHO Collaborating Centre",NA,"Professor","salman rawaf","Director of WHO Collaborating Centre"
+"RODRIGUEZ, Alina C","a.rodriguez","Alina","RODRIGUEZ","Visiting Professor","Professor Alina Rodriguez, CPsychol",NA,"alina rodriguez","Visiting Professor"
+"OKELL, Lucy","l.okell","Lucy","OKELL","Senior Lecturer & Royal Society Dorothy Hodgkin Fellow",NA,"Dr","lucy okell","Senior Lecturer & Royal Society Dorothy Hodgkin Fellow"
+"JOMBART, Thibaut","t.jombart","Thibaut","JOMBART","Senior Lecturer",NA,"Dr","thibaut jombart","Senior Lecturer"
+"CROSS, Mary","m.cross","Mary","CROSS","Operations Manager",NA,"Mrs","mary cross","Operations Manager"
+"MYRON, Rowan","r.myron","Rowan","MYRON","Honorary Research Associate",NA,"Dr","rowan myron","Honorary Research Associate"
+"GAJRIA, Mona C (Camille)","c.gajria","Mona","GAJRIA","Clinical Teaching Fellow in Primary Care",NA,"Dr","mona gajria",NA
+"DUBOIS, Elizabeth A","e.dubois","Elizabeth","DUBOIS","Research Associate",NA,"Dr","elizabeth dubois",NA
+"KAAKINEN, Marika A","m.kaakinen","Marika","KAAKINEN","Visiting Researcher","Dr Marika Kaakinen",NA,"marika kaakinen","Visiting Researcher"
+"BABALIS, Daphne S","d.babalis09","Daphne","BABALIS","Director of Operations, Imperial Clinical Trials Unit ","Dr Daphne Babalis",NA,"daphne babalis","Director of Operations, Imperial Clinical Trials Unit"
+"VAMOS, Eszter P","e.vamos","Eszter","VAMOS","Clinical Senior Lecturer",NA,"Dr","eszter vamos","Clinical Senior Lecturer"
+"GREAVES, Felix E C","felix.greaves08","Felix","GREAVES","Clinical Senior Lecturer",NA,"Dr","felix greaves","Clinical Senior Lecturer"
+"SATHYAMOORTHY, Ganesh","g.sathyamoorthy","Ganesh","SATHYAMOORTHY","Honorary Research Associate",NA,"Mr","ganesh sathyamoorthy","Honorary Research Associate"
+"GALE, Christopher R K (Chris)","christopher.gale","Christopher","GALE","Professor of Neonatal Medicine","Dr Chris Gale",NA,"christopher gale",NA
+"MURPHY, Neil","neil.murphy","Neil","MURPHY","Honorary Senior Research Fellow",NA,"Dr","neil murphy","Honorary Senior Research Fellow"
+"BARRERA VERGARA, Lena I","l.barrera-vergara08","Lena","BARRERA VERGARA",NA,NA,NA,"lena barrera vergara",NA
+"TAVITIAN-EXLEY, Isabel","i.tavitianexley09","Isabel","TAVITIAN-EXLEY",NA,NA,NA,"isabel tavitian-exley",NA
+"HALDER, Julia","j.halder09","Julia","HALDER","Honorary Research Associate",NA,"Dr","julia halder","Honorary Research Associate"
+"RONN, Minttu M","minttu.ronn08","Minttu","RONN","Honorary Research Associate",NA,"Dr","minttu ronn","Honorary Research Associate"
+"MARTINEZ BIARGE, Miriam","miriam.mbiarge","Miriam","MARTINEZ BIARGE",NA,NA,NA,"miriam martinez biarge",NA
+"LAVERTY, Anthony A","a.laverty","Anthony","LAVERTY","Senior Lecturer","Dr Anthony Laverty",NA,"anthony laverty","Senior Lecturer"
+"LEE, Ta Yu (John)","t.lee","Ta","LEE",NA,NA,NA,"ta lee",NA
+"KLIMOWSKA-NASSAR, Natalia M B","n.klimowska","Natalia","KLIMOWSKA-NASSAR","Operations Manager - Clinical Research","Mrs Natalia Klimowska-Nassar",NA,"natalia klimowska-nassar","Operations Manager - Clinical Research"
+"JEWELL, Britta","b.jewell","Britta","JEWELL","Visiting Researcher",NA,"Dr","britta jewell","Visiting Researcher"
+"AUNE, Dagfinn","d.aune","Dagfinn","AUNE","Research Associate",NA,"Dr","dagfinn aune","Research Associate"
+"DORIGATTI, Ilaria","i.dorigatti","Ilaria","DORIGATTI","Senior Lecturer",NA,"Dr","ilaria dorigatti","Senior Lecturer"
+"HOFER, Stuart A","stuart.green","Stuart","HOFER","Project Evaluation Manager",NA,"Dr","stuart hofer","Project Evaluation Manager"
+"HASTIE, David I","d.hastie","David","HASTIE",NA,NA,NA,"david hastie",NA
+"CONTEH, Lesong","l.conteh","Lesong","CONTEH","Visiting Reader",NA,"Dr","lesong conteh","Visiting Reader"
+"PIRANI, Monica","monica.pirani","Monica","PIRANI","Lecturer in Biostatistics",NA,"Dr","monica pirani","Lecturer in Biostatistics"
+"HAUCK, Katharina D","k.hauck","Katharina","HAUCK","Professor in Health Economics",NA,"Professor","katharina hauck","Professor in Health Economics"
+"ANJUM, Aisha","a.anjum","Aisha","ANJUM",NA,NA,NA,"aisha anjum",NA
+"TURNER, Hugo C","hugo.turner","Hugo","TURNER","Lecturer",NA,"Dr","hugo turner","Lecturer"
+"LAYDON, Daniel","d.laydon","Daniel","LAYDON","Research Associate","Dr Daniel Laydon",NA,"daniel laydon","Research Associate"
+"SALEEM KHAN, Muhammad","m.saleemk","Muhammad","SALEEM KHAN",NA,NA,NA,"muhammad saleem khan",NA
+"ALJURAIBAN, Ghadeer S","g.aljuraiban10","Ghadeer","ALJURAIBAN",NA,NA,NA,"ghadeer aljuraiban","Honorary Research Associate"
+"SMIT, Mikaela","mikaela.smit","Mikaela","SMIT","Honorary Research Fellow","Dr Mikaela Smit",NA,"mikaela smit","Honorary Research Fellow"
+"NEAL, Bruce C","b.neal","Bruce","NEAL",NA,NA,NA,"bruce neal","Professor of Clinical Epidemiology"
+"CORI, Anne","a.cori","Anne","CORI","Senior Lecturer in Infectious Disease Modelling",NA,"Dr","anne cori","Senior Lecturer in Infectious Disease Modelling"
+"EZZATI, Majid","majid.ezzati","Majid","EZZATI","Chair in Global Environmental Health",NA,"Professor","majid ezzati","Chair in Global Environmental Health"
+"WINSKILL, Peter","p.winskill","Peter","WINSKILL","Research Fellow",NA,"Dr","peter winskill","Research Fellow"
+"HARRIS, Matthew J","m.harris","Matthew","HARRIS","Clinical Senior Lecturer in Public Health",NA,"Dr","matthew harris","Clinical Senior Lecturer in Public Health"
+"TUDOR CAR, Lorainne","l.tudor.car","Lorainne","TUDOR CAR","Honorary Senior Research Fellow",NA,"Dr","lorainne tudor car",NA
+"MANGAL, Tara D","t.mangal","Tara","MANGAL","Research Fellow",NA,"Dr","tara mangal","Research Fellow"
+"CORONINI-CRONBERG, Sophie","s.coronini-cronberg","Sophie","CORONINI-CRONBERG","Honorary Senior Lecturer","Dr Sophie Coronini-Cronberg",NA,"sophie coronini-cronberg",NA
+"VIEIRA, Ana R (Rita)","a.vieira","Ana","VIEIRA",NA,NA,NA,"ana vieira",NA
+"PAPAGEORGIOU, Georgios","g.papageorgiou","Georgios","PAPAGEORGIOU",NA,NA,NA,"georgios papageorgiou",NA
+"NAVARRO ROSENBLATT, Deborah A","d.navarro-rosenblatt","Deborah","NAVARRO ROSENBLATT",NA,NA,NA,"deborah navarro rosenblatt",NA
+"BATTERSBY, Cheryl W S","c.battersby","Cheryl","BATTERSBY","Clinical Senior Lecturer in Neonatal Medicine",NA,"Dr","cheryl battersby","Clinical Senior Lecturer in Neonatal Medicine"
+"HURLEY, Michael J","m.hurley","Michael","HURLEY",NA,NA,NA,"michael hurley","Visiting Researcher"
+"SUEL, Esra","esra.suel","Esra","SUEL","Honorary Research Fellow","Esra Suel",NA,"esra suel","Honorary Research Fellow"
+"SILVA, Ninha","ninha.silva","Ninha","SILVA",NA,NA,NA,"ninha silva","Administrator"
+"CHEKE, Robert A","r.cheke","Robert","CHEKE",NA,NA,NA,"robert cheke","Visiting Professor"
+"BRAVERY, Amanda J","a.bravery","Amanda","BRAVERY","Head of ICT - ICTU",NA,"Mrs","amanda bravery","Head of ICT - ICTU"
+"SULLIVAN, Paul J","p.sullivan","Paul","SULLIVAN",NA,NA,NA,"paul sullivan","Honorary Senior Lecturer"
+"WARD, Heather A","heather.ward","Heather","WARD","Honorary Research Fellow","Heather Ward",NA,"heather ward","Honorary Research Fellow"
+"DI CESARE, Mariachiara","m.di-cesare","Mariachiara","DI CESARE","Honorary Research Fellow",NA,"Dr","mariachiara di cesare",NA
+"FALASCHETTI, Emanuela","e.falaschetti","Emanuela","FALASCHETTI","Deputy Head of Statistics",NA,"Ms","emanuela falaschetti","Deputy Head of Statistics"
+"GREENFIELD, Geva","g.greenfield","Geva","GREENFIELD","Research Fellow in Public Health",NA,"Dr","geva greenfield","Research Fellow in Public Health"
+"GUNTER, Marc J","m.gunter","Marc","GUNTER","Chair in Cancer Epidemiology",NA,"Professor","marc gunter","Chair in Cancer Epidemiology"
+"BLOCK, Martin L","m.block","Martin","BLOCK","Honorary Senior Lecturer",NA,"Dr","martin block","Honorary Senior Lecturer"
+"SHAW, Alexander G","a.shaw","Alexander","SHAW","Research Fellow","DR ALEX SHAW",NA,"alexander shaw","Research Fellow"
+"WADDINGHAM, Edward A J (Ed)","e.waddingham","Edward","WADDINGHAM",NA,NA,NA,"edward waddingham",NA
+"SALMAN, David","d.salman11","David","SALMAN","Imperial Post-Doctoral, Post-CCT Research Fellow (IPPRF)",NA,"Dr","david salman","Imperial Post-Doctoral, Post-CCT Research Fellow (IPPRF)"
+"TILNEY, Myra","m.tilney11","Myra","TILNEY",NA,NA,NA,"myra tilney",NA
+"ATCHISON, Christina J","christina.atchison11","Christina","ATCHISON","Principal Clinical Academic Fellow",NA,"Dr","christina atchison","Principal Clinical Academic Fellow"
+"PINDER, Richard J","richard.pinder","Richard","PINDER","Director of Undergraduate Public Health Education","Dr Richard J Pinder",NA,"richard pinder","Director of Undergraduate Public Health Education"
+"MCKAY, Ailsa J","ailsa.mckay08","Ailsa","MCKAY",NA,NA,NA,"ailsa mckay","Honorary Clinical Research Fellow"
+"SHARPE, Carolyn A","carolyn.sharpe15","Carolyn","SHARPE",NA,NA,NA,"carolyn sharpe",NA
+"PRIOR, Emily L","emily.prior05","Emily","PRIOR",NA,NA,NA,"emily prior","Clinical Research Fellow"
+"BIXBY, Honor R H","honor.bixby08","Honor","BIXBY",NA,NA,NA,"honor bixby","Honorary Research Associate"
+"KWUN, Min J","min.kwun08","Min","KWUN","Research Associate","Dr Min Jung Kwun",NA,"min kwun","Research Associate"
+"RAHMAN, Shati S","shati.rahman09","Shati","RAHMAN",NA,NA,NA,"shati rahman",NA
+"KOONER, Angad S","angad.kooner10","Angad","KOONER",NA,NA,NA,"angad kooner","Clinical Research Fellow"
+"KOLBEINSSON, Arinbjorn","arinbjorn.kolbeinsson11","Arinbjorn","KOLBEINSSON","Honorary Research Associate","Dr Arinbjörn Kolbeinsson",NA,"arinbjorn kolbeinsson","Honorary Research Associate"
+"CHARLES, Giovanni D","giovanni.charles10","Giovanni","CHARLES","Senior Research Software Engineer",NA,"Mr","giovanni charles","Senior Research Software Engineer"
+"STOPARD, Isaac J","isaac.stopard11","Isaac","STOPARD","Research Associate","Isaac Stopard",NA,"isaac stopard","Research Associate"
+"HAMLEY, Jonathan I D","jonathan.hamley11","Jonathan","HAMLEY","Visiting Researcher",NA,"Dr","jonathan hamley","Visiting Researcher"
+"JAWAD, Mohammed","mohammed.jawad06","Mohammed","JAWAD","Honorary Clinical Research Fellow",NA,"Dr","mohammed jawad","Honorary Clinical Research Fellow"
+"SHEPPARD, Richard J","richard.sheppard11","Richard","SHEPPARD","Research Associate",NA,"Dr","richard sheppard","Research Associate"
+"JOHNSON, Robert A (Rob)","robert.johnson11","Robert","JOHNSON","Research Associate",NA,"Dr","robert johnson",NA
+"BEANEY, Thomas E","thomas.beaney","Thomas","BEANEY","Clinical Research Fellow",NA,"Dr","thomas beaney","Clinical Research Fellow"
+"COWLING, Thomas E","t.cowling","Thomas","COWLING","Honorary Lecturer","Dr Thomas Cowling",NA,"thomas cowling","Honorary Lecturer"
+"CAI, Yutong (Samuel)","yutong.cai","Yutong","CAI","Honorary Research Fellow","DR YUTONG SAMUEL CAI",NA,"yutong cai",NA
+"HASSOUNAH, Sondus","s.hassounah","Sondus","HASSOUNAH","Senior Teaching Fellow in Public Health",NA,"Dr","sondus hassounah","Senior Teaching Fellow in Public Health"
+"LENNOX, Laura","l.lennox","Laura","LENNOX","Improvement Science / Health Improvement Lead","Dr Laura Lennox",NA,"laura lennox","Improvement Science / Health Improvement Lead"
+"SYMONS, Joshua D","j.symons","Joshua","SYMONS","Honorary Research Fellow","MR JOSHUA SYMONS",NA,"joshua symons",NA
+"SAADI, Habib","h.saadi","Habib","SAADI",NA,NA,NA,"habib saadi",NA
+"MASTELLOS, Nikolaos (Nikolas)","n.mastellos","Nikolaos","MASTELLOS","Honorary Lecturer","Dr Nikolas Mastellos",NA,"nikolaos mastellos",NA
+"OUDE GRIEP, Linda M","l.oude-griep","Linda","OUDE GRIEP","Honorary Research Fellow",NA,"Dr","linda oude griep",NA
+"MULLA, Umme Zeinab","zeinab.mulla","Umme","MULLA","Senior Teaching Fellow in Public Health","Dr Zeinab Mulla",NA,"umme mulla","Senior Teaching Fellow in Public Health"
+"MONJE GARCIA, Laura","l.monje-garcia","Laura","MONJE GARCIA",NA,NA,NA,"laura monje garcia",NA
+"DIDELOT, Xavier","x.didelot","Xavier","DIDELOT","Visiting Professor",NA,"Dr","xavier didelot","Visiting Professor"
+"ABAR, Leila","l.abar","Leila","ABAR","Research Postgraduate",NA,"Mrs","leila abar","Research Postgraduate"
+"STEVENS, Gretchen","gretchen.stevens","Gretchen","STEVENS",NA,NA,NA,"gretchen stevens","Honorary Research Associate"
+"NOUVELLET, Pierre","p.nouvellet","Pierre","NOUVELLET","Visiting Reader",NA,"Dr","pierre nouvellet","Visiting Reader"
+"SILHOL, Romain","r.silhol","Romain","SILHOL","Research Fellow",NA,"Dr","romain silhol","Research Fellow"
+"WATT, Hilary C","h.watt","Hilary","WATT","Teaching Fellow","Hilary Watt CStat FHEA MSc MA(Oxon) BA",NA,"hilary watt","Teaching Fellow"
+"AFAQ, Saima","s.afaq11","Saima","AFAQ",NA,NA,NA,"saima afaq","Honorary Research Fellow"
+"PAREKH, Ravi","r.parekh","Ravi","PAREKH","Deputy Director of Medical Education Innovation and Research",NA,"Dr","ravi parekh","Deputy Director of Medical Education Innovation and Research"
+"CHANG, Chu-Mei (Kiara)","chu-mei.chang","Chu-Mei","CHANG","NIHR Research Fellow","Dr Kiara C-M Chang",NA,"chu-mei chang",NA
+"SEGURA LEPE, Marcelo P","m.segura-lepe","Marcelo","SEGURA LEPE",NA,NA,NA,"marcelo segura lepe",NA
+"THOMAS, Ranjeeta A","ranjeeta.thomas","Ranjeeta","THOMAS","Honoray Lecturer",NA,"Dr","ranjeeta thomas","Honoray Lecturer"
+"IMAI, Natsuko","n.imai","Natsuko","IMAI","Honorary Senior Research Fellow","Dr Natsuko Imai",NA,"natsuko imai","Honorary Senior Research Fellow"
+"PARKER, Edward P K","edward.parker","Edward","PARKER",NA,NA,NA,"edward parker","Visiting Researcher"
+"DEHBI, Hakim-Moulay","hakim-moulay.dehbi12","Hakim-Moulay","DEHBI",NA,NA,NA,"hakim-moulay dehbi",NA
+"SHAH, Anand","s.anand","Anand","SHAH","Honorary Clinical Senior Lecturer",NA,"Dr","anand shah","Honorary Clinical Senior Lecturer"
+"NAYAGAM, Amanda Shevanthi (Shevanthi)","s.nayagam01","Amanda","NAYAGAM","Clinical Fellow",NA,"Dr","amanda nayagam",NA
+"PERNECZKY, Robert G","r.perneczky","Robert","PERNECZKY","Visiting Professor",NA,"Dr","robert perneczky","Visiting Professor"
+"LOH, Marie","m.loh","Marie","LOH","Honorary Senior Lecturer",NA,"Dr","marie loh","Honorary Senior Lecturer"
+"KUMAR, Sonia","sonia.kumar","Sonia","KUMAR","Visiting Professor",NA,"Professor","sonia kumar","Visiting Professor"
+"RIBOLI-SASCO, Eva F","e.riboli-sasco","Eva","RIBOLI-SASCO","Casual - Academic Research","Eva F Riboli-Sasco",NA,"eva riboli-sasco","Casual - Academic Research"
+"RHODES, Johanna L","johanna.rhodes","Johanna","RHODES","Honorary Research Fellow",NA,"Dr","johanna rhodes","Honorary Research Fellow"
+"LOVETT, Derryn","d.lovett","Derryn","LOVETT","Honorary Research Assistant","MR DERRYN LOVETT",NA,"derryn lovett","Honorary Research Assistant"
+"EL-OSTA, Austen","a.el-osta","Austen","EL-OSTA","Primary Care Research Manager","Dr Austen El-Osta",NA,"austen el-osta","Primary Care Research Manager"
+"PARSTON, Gregory (Greg)","g.parston","Gregory","PARSTON","Visiting Professor",NA,"Dr","gregory parston",NA
+"ARINAMINPATHY, Nimalan (Nim)","nim.pathy","Nimalan","ARINAMINPATHY","Professor in Mathematical Epidemiology","Professor Nimalan Arinaminpathy (Nim Pathy)",NA,"nimalan arinaminpathy",NA
+"CROSS, Amanda J","amanda.cross","Amanda","CROSS","Professor of Cancer Epidemiology","Professor Amanda Cross",NA,"amanda cross","Professor of Cancer Epidemiology"
+"VOLZ, Erik","e.volz","Erik","VOLZ","Reader in Population Biology of Infectious Diseases",NA,"Dr","erik volz","Reader in Population Biology of Infectious Diseases"
+"STEVENS, Christophe A T","christophe.stevens","Christophe","STEVENS","Software Engineer/Data Manager","Christophe Stevens",NA,"christophe stevens","Software Engineer/Data Manager"
+"SHERRARD-SMITH, Eleanor (Ellie)","e.sherrard-smith","Eleanor","SHERRARD-SMITH","Advanced Research Fellow","Dr Ellie Sherrard-Smith",NA,"eleanor sherrard-smith",NA
+"WYMANT, Christopher M (Chris)","c.wymant","Christopher","WYMANT","Honorary Research Associate","Dr Chris Wymant",NA,"christopher wymant",NA
+"BRUTON, Pamela J (Jane)","j.bruton","Pamela","BRUTON",NA,NA,NA,"pamela bruton",NA
+"KARAMAN, Ibrahim","i.karaman","Ibrahim","KARAMAN","Honorary Research Associate",NA,"Dr","ibrahim karaman","Honorary Research Associate"
+"CROUCHER, Nicholas J","n.croucher","Nicholas","CROUCHER","Reader in Bacterial Genomics",NA,"Dr","nicholas croucher","Reader in Bacterial Genomics"
+"ROBB, Catherine E","c.robb","Catherine","ROBB",NA,NA,NA,"catherine robb","Honorary Research Associate"
+"FILIPPIDIS, Filippos","f.filippidis","Filippos","FILIPPIDIS","Senior Lecturer",NA,"Dr","filippos filippidis","Senior Lecturer"
+"BAKER, Peter","peter.baker","Peter","BAKER",NA,NA,NA,"peter baker","Honorary Clinical Senior Lecturer"
+"RODRIGUEZ MARTINEZ, Andrea","andrea.rodriguez-martinez13","Andrea","RODRIGUEZ MARTINEZ","Honorary Research Associate","Dr Andrea Rodriguez Martinez",NA,"andrea rodriguez martinez",NA
+"CUCUNUBA PEREZ, Zulma M","zulma.cucunuba","Zulma","CUCUNUBA PEREZ","Honorary Lecturer","Dr Zulma M Cucunubá",NA,"zulma cucunuba perez",NA
+"EVANGELOU, Evangelos","e.evangelou","Evangelos","EVANGELOU","Senior Lecturer",NA,"Dr","evangelos evangelou","Senior Lecturer"
+"ZHOU, Bin","b.zhou13","Bin","ZHOU","Research Fellow",NA,"Dr","bin zhou",NA
+"RASMUSSEN, Kristine","kristine.rasmussen12","Kristine","RASMUSSEN",NA,NA,NA,"kristine rasmussen","Honorary Clinical Research Fellow"
+"TANNA, Nuttan","nuttan.tanna","Nuttan","TANNA",NA,NA,NA,"nuttan tanna","Honorary Senior Research Fellow"
+"HONE, Thomas V R","t.hone","Thomas","HONE","Lecturer in Global Health Systems Research","Dr Thomas Hone",NA,"thomas hone","Lecturer in Global Health Systems Research"
+"PALLADINO, Raffaele","r.palladino","Raffaele","PALLADINO","Research Associate",NA,"Dr","raffaele palladino","Research Associate"
+"BERRY, Clare A","c.berry","Clare","BERRY",NA,NA,NA,"clare berry",NA
+"RAWAF, David","d.rawaf","David","RAWAF","Web Editor for the WHO Collaborating Centre","Dr David Laith Rawaf",NA,"david rawaf","Web Editor for the WHO Collaborating Centre"
+"SINGH, Samrat","samrat.singh","Samrat","SINGH","Research Associate in Food Policy",NA,"Dr","samrat singh","Research Associate in Food Policy"
+"VERITY, Robert J","r.verity","Robert","VERITY","MRC Research Fellow",NA,"Dr","robert verity","MRC Research Fellow"
+"GIANNAKOPOULOU, Parthenia","parthenia.giannakopoulou13","Parthenia","GIANNAKOPOULOU",NA,NA,NA,"parthenia giannakopoulou","Data Management Co-ordinator"
+"GILL, Dipender P S","dipender.gill","Dipender","GILL","Clinical Research Fellow",NA,"Dr","dipender gill","Clinical Research Fellow"
+"BROOKES, Lola","l.brookes","Lola","BROOKES",NA,NA,NA,"lola brookes","Visiting Researcher"
+"NEVES, Ana Luisa","ana.luisa.neves14","Ana","NEVES","Clinical Senior Lecturer in Digital Health","Dr Ana Luisa Neves",NA,"ana neves","Clinical Senior Lecturer in Digital Health"
+"DOUGLAS, Philippa","p.douglas","Philippa","DOUGLAS","Visiting Researcher Association",NA,"Dr","philippa douglas","Visiting Researcher Association"
+"PONS SALORT, Margarita","m.pons-salort","Margarita","PONS SALORT","Sir Henry Dale Fellow (ARF)","Dr Margarita Pons-Salort",NA,"margarita pons salort",NA
+"KARHUNEN, Ville M","v.karhunen","Ville","KARHUNEN",NA,NA,NA,"ville karhunen","Honorary Research Associate"
+"HADJICHRYSANTHOU, Christoforos (Chris)","c.hadjichrysanthou","Christoforos","HADJICHRYSANTHOU","Research Associate","Dr Chris Hadjichrysanthou",NA,"christoforos hadjichrysanthou",NA
+"VEGVARI, Carolin","c.vegvari","Carolin","VEGVARI","Visiting Researcher","Dr Carolin Vegvari",NA,"carolin vegvari","Visiting Researcher"
+"PERERA, Dinithi","d.perera","Dinithi","PERERA",NA,NA,NA,"dinithi perera","Departmental Manager / Project Manager"
+"DEHGHAN, Abbas","a.dehghan","Abbas","DEHGHAN","Reader in Cardiometabolic Disease Epidemiology",NA,"Dr","abbas dehghan","Reader in Cardiometabolic Disease Epidemiology"
+"PAZOKI, Raha","r.pazoki","Raha","PAZOKI","Honorary Lecturer",NA,"Dr","raha pazoki","Honorary Lecturer"
+"OUGHAM, Kayleigh","k.ougham","Kayleigh","OUGHAM",NA,NA,NA,"kayleigh ougham","Principal Data Analyst"
+"NEDJATI GILANI, Gemma L","g.nedjati-gilani","Gemma","NEDJATI GILANI","Research Associate",NA,"Dr","gemma nedjati gilani",NA
+"TSILIDIS, Konstantinos (Kostas)","k.tsilidis","Konstantinos","TSILIDIS","Reader in Cancer Epidemiology and Prevention",NA,"Dr","konstantinos tsilidis",NA
+"MURPHY, Jennifer","j.murphy","Jennifer","MURPHY","Operations Manager",NA,"Dr","jennifer murphy","Operations Manager"
+"UDEH-MOMOH, Chinedu T (Chi)","c.udeh","Chinedu","UDEH-MOMOH","Research Programme Manager",NA,"Dr","chinedu udeh-momoh",NA
+"MCCORMACK, Clare P","c.mccormack14","Clare","MCCORMACK","Research Associate","Dr Clare McCormack",NA,"clare mccormack","Research Associate"
+"BATES, Kieran","k.bates14","Kieran","BATES","Visiting Researcher","Dr Kieran Bates",NA,"kieran bates","Visiting Researcher"
+"ROBBINS, Emma C L","e.robbins","Emma","ROBBINS","Research Postgraduate",NA,"Miss","emma robbins",NA
+"JAUNEIKAITE, Elita","e.jauneikaite","Elita","JAUNEIKAITE","Advanced Research Fellow","Dr. Elita Jauneikaite",NA,"elita jauneikaite","Advanced Research Fellow"
+"AUFEGGER, Lisa","l.aufegger","Lisa","AUFEGGER","Honorary Research Fellow",NA,"Dr","lisa aufegger",NA
+"WHITTLES, Lilith K","l.whittles","Lilith","WHITTLES","Sir Henry Wellcome Postdoctoral Fellow",NA,"Dr","lilith whittles","Sir Henry Wellcome Postdoctoral Fellow"
+"MEINERT, Edward","e.meinert14","Edward","MEINERT","Honorary Senior Lecturer","EUR ING Dr Edward A Meinert",NA,"edward meinert","Honorary Senior Lecturer"
+"HEFFERNAN, Alastair","a.heffernan14","Alastair","HEFFERNAN",NA,NA,NA,"alastair heffernan",NA
+"CHALLENGER, Joseph","j.challenger","Joseph","CHALLENGER","Research Associate",NA,"Dr","joseph challenger","Research Associate"
+"FOLEY, Kimberley A","k.foley","Kimberley","FOLEY","Research Associate",NA,"Dr","kimberley foley","Research Associate"
+"DHARMAYAT, Kanika S","kanika.dharmayat13","Kanika","DHARMAYAT","Research Postgraduate",NA,"Miss","kanika dharmayat",NA
+"MITCHELL, Kate M (Kate)","kate.mitchell","Kate","MITCHELL","Honorary Senior Research Fellow","Dr Kate Mitchell",NA,"kate mitchell","Honorary Senior Research Fellow"
+"DARLING, Andrea L","andrea.darling","Andrea","DARLING",NA,NA,NA,"andrea darling",NA
+"FLOTT, Kelsey M","k.flott14","Kelsey","FLOTT","Honorary Senior Research Fellow","Dr Kelsey Flott",NA,"kelsey flott",NA
+"RAO, Ahsan M","a.rao","Ahsan","RAO",NA,NA,NA,"ahsan rao","Honorary Research Associate"
+"SZIGETI, Matyas","m.szigeti","Matyas","SZIGETI","Honorary Research Associate",NA,"Mr","matyas szigeti","Honorary Research Associate"
+"RAO, Mala","mala.rao","Mala","RAO",NA,NA,NA,"mala rao","Senior Clinical Fellow"
+"LEDDA, Alice","a.ledda","Alice","LEDDA","Visiting Researcher",NA,"Dr","alice ledda","Visiting Researcher"
+"ALFANO, Rossella","r.alfano","Rossella","ALFANO",NA,NA,NA,"rossella alfano","Visiting Researcher"
+"MURRAY, Kris A","kris.murray","Kris","MURRAY","Honorary Senior Lecturer",NA,"Professor","kris murray","Honorary Senior Lecturer"
+"MA, Richard MMN","r.ma","Richard","MA","Honorary Clinical Research Fellow",NA,"Dr","richard ma","Honorary Clinical Research Fellow"
+"HAY, James A","james.hay13","James","HAY","Honorary Research Fellow","Mr James Hay",NA,"james hay","Honorary Research Fellow"
+"PRICE, Geraint J","g.price","Geraint","PRICE",NA,NA,NA,"geraint price","Consultant Clinical Research Neuropsychologist"
+"SKARP, Janetta E","janetta.skarp13","Janetta","SKARP","Research Postgraduate",NA,"Miss","janetta skarp",NA
+"RAY, Kausik K (Kosh)","k.ray","Kausik","RAY","Chair in Public Health (Clinical)",NA,"Professor","kausik ray",NA
+"TRIANTAFYLLIDIS, Charalampos (Harry)","c.triantafyllidis","Charalampos","TRIANTAFYLLIDIS","Honorary Research Associate","Dr Charalampos (Harry) Triantafyllidis",NA,"charalampos triantafyllidis",NA
+"BAGUELIN, Marc","m.baguelin","Marc","BAGUELIN","Senior Lecturer",NA,"Dr","marc baguelin","Senior Lecturer"
+"ASANATI, Kaveh","k.asanati","Kaveh","ASANATI","Visiting Professor","Professor Kaveh Asanati",NA,"kaveh asanati","Visiting Professor"
+"SEFERIDI, Paraskevi","paraskevi.seferidi14","Paraskevi","SEFERIDI","Research Fellow","Dr Paraskevi Seferidi",NA,"paraskevi seferidi","Research Fellow"
+"FARRELL, Sam H","sam.farrell","Sam","FARRELL","Casual - GTA",NA,"Dr","sam farrell","Casual - GTA"
+"DUTTA, Nina","n.dutta","Nina","DUTTA","Year 3 Medicine in the Community (MICA) GP Course Lead",NA,"Dr","nina dutta","Year 3 Medicine in the Community (MICA) GP Course Lead"
+"FADAHUNSI, Philip","k.fadahunsi14","Philip","FADAHUNSI",NA,NA,NA,"philip fadahunsi",NA
+"COSTELLOE, Ceire E","ceire.costelloe","Ceire","COSTELLOE","Visiting Professor","Dr Céire Costelloe",NA,"ceire costelloe","Visiting Professor"
+"SU, Bowen","b.su","Bowen","SU","Research Associate","Dr Bowen Su",NA,"bowen su","Research Associate"
+"AMATI, Federica","f.amati","Federica","AMATI","Research Associate","Dr Federica Amati PhD ANutr",NA,"federica amati","Research Associate"
+"HONEYFORD, Catherine E (Kate)","k.honeyford","Catherine","HONEYFORD","Honorary Research Associate","Dr Kate Honeyford",NA,"catherine honeyford",NA
+"VANDERBLOEMEN, Laura","l.vanderbloemen","Laura","VANDERBLOEMEN","Honorary Research Fellow",NA,"Dr","laura vanderbloemen","Honorary Research Fellow"
+"VALLEJO-VAZ, Antonio Javier","a.vallejo-vaz","Antonio","VALLEJO-VAZ",NA,NA,NA,"antonio vallejo-vaz",NA
+"BARBER, Susan","s.barber","Susan","BARBER",NA,NA,NA,"susan barber",NA
+"FRENI STERRANTINO, Anna","a.freni-sterrantino","Anna","FRENI STERRANTINO","Honorary Research Associate",NA,"Dr","anna freni sterrantino",NA
+"PARKS, Robbie M","r.parks15","Robbie","PARKS","Honorary Research Associate","Dr Robbie M. Parks",NA,"robbie parks","Honorary Research Associate"
+"HAMLET, Arran T P","arran.hamlet14","Arran","HAMLET","Visiting Researcher",NA,"Dr","arran hamlet","Visiting Researcher"
+"TADDESE, Henock B","h.taddese","Henock","TADDESE","Senior Teaching Fellow in Public Health",NA,"Dr","henock taddese","Senior Teaching Fellow in Public Health"
+"GEIDELBERG, Lily L","l.geidelberg","Lily","GEIDELBERG",NA,NA,NA,"lily geidelberg",NA
+"PEARSON-STUTTARD, Jonathan","j.pearson-stuttard","Jonathan","PEARSON-STUTTARD","Honorary Clinical Senior Lecturer",NA,"Dr","jonathan pearson-stuttard","Honorary Clinical Senior Lecturer"
+"BENE, Benard","b.bene15","Benard","BENE",NA,NA,NA,"benard bene",NA
+"HAW, David J","d.haw","David","HAW","Research Associate",NA,"Dr","david haw","Research Associate"
+"MYRIDAKIS, Antonios (Antonis)","a.myridakis","Antonios","MYRIDAKIS","Research Associate","Dr Antonis Myridakis",NA,"antonios myridakis",NA
+"WIELSCHER, Matthias","m.wielscher","Matthias","WIELSCHER","Honorary Senior Research Officer",NA,"Dr","matthias wielscher","Honorary Senior Research Officer"
+"BOND, Thomas A M (Tom)","thomas.bond14","Thomas","BOND",NA,NA,NA,"thomas bond",NA
+"JOHNSON, Nicholas A","nicholas.johnson","Nicholas","JOHNSON","Research Fellow",NA,"Mr","nicholas johnson","Research Fellow"
+"DIXON-ZEGEYE, Matthew A S","m.dixon15","Matthew","DIXON-ZEGEYE","Research Associate","Dr Matthew Dixon-Zegeye",NA,"matthew dixon-zegeye","Research Associate"
+"WATSON, Oliver J","o.watson15","Oliver","WATSON","Visiting Researcher","Dr Oliver (OJ) Watson",NA,"oliver watson","Visiting Researcher"
+"FITZJOHN, Richard G","r.fitzjohn","Richard","FITZJOHN","Principal Architect, Research Software Engineering Group",NA,"Dr","richard fitzjohn","Principal Architect, Research Software Engineering Group"
+"MULLER, David C","david.muller","David","MULLER","Senior Lecturer in Cancer Epidemiology and Biostatistics","Dr David C Muller",NA,"david muller","Senior Lecturer in Cancer Epidemiology and Biostatistics"
+"WETH, Nikita","nikita.rajani14","Nikita","WETH",NA,NA,NA,"nikita weth","Honorary Research Associate"
+"KOEHL, Arnaud","a.koehl15","Arnaud","KOEHL","Research Postgraduate","Arnaud C. Koehl",NA,"arnaud koehl",NA
+"BERLANGA, Antonio","a.berlanga","Antonio","BERLANGA","Honorary Senior Research Fellow","Dr Antonio J Berlanga-Taylor",NA,"antonio berlanga","Honorary Senior Research Fellow"
+"HAYHOE, Benedict W J","b.hayhoe","Benedict","HAYHOE",NA,NA,NA,"benedict hayhoe","Clinical Lecturer in Primary Care"
+"CORNELIUS, Victoria R","v.cornelius","Victoria","CORNELIUS","Professor in Medical Statistics and Trials Methodology",NA,"Professor","victoria cornelius","Professor in Medical Statistics and Trials Methodology"
+"MARTI, Joachim E F","j.marti","Joachim","MARTI","Honorary Senior Lecturer",NA,"Dr","joachim marti",NA
+"PARKES, Brandon L","b.parkes","Brandon","PARKES",NA,NA,NA,"brandon parkes","Research Associate"
+"SIVERONI, Igor A","i.siveroni","Igor","SIVERONI","Research Fellow  ",NA,"Dr","igor siveroni","Research Fellow"
+"PREVOST, Andrew T (Toby)","a.prevost","Andrew","PREVOST","Visiting Professor","Professor Toby Prevost",NA,"andrew prevost",NA
+"WESTON, Dale","d.weston","Dale","WESTON",NA,NA,NA,"dale weston","Honorary Research Associate"
+"PIEL, Frederic B J (Fred)","f.piel","Frederic","PIEL","Senior Lecturer","Dr Frédéric B. Piel",NA,"frederic piel",NA
+"PINTO, Rui J","r.pinto","Rui","PINTO","Research Associate in Chemometrics/Metabolomics",NA,"Dr","rui pinto","Research Associate in Chemometrics/Metabolomics"
+"ANTONACCI, Grazia","g.antonacci","Grazia","ANTONACCI","Research Associate","Dr Grazia Antonacci",NA,"grazia antonacci","Research Associate"
+"JONES, Kathryn N","k.jones","Kathryn","JONES","Clinical Research Manager",NA,"Dr","kathryn jones","Clinical Research Manager"
+"ROBINSON, Oliver J K","o.robinson","Oliver","ROBINSON","Lecturer in Molecular Epidemiology",NA,"Dr","oliver robinson","Lecturer in Molecular Epidemiology"
+"WANG, Weiyi","weiyi.wang14","Weiyi","WANG","Research Associate in Environmental Epidemiology",NA,"Dr","weiyi wang","Research Associate in Environmental Epidemiology"
+"PIGGIN, Maria M","m.piggin","Maria","PIGGIN","PERC Partnerships & Training Manager","Ms Maria Piggin",NA,"maria piggin","PERC Partnerships & Training Manager"
+"HABIB, Mariam","m.habib","Mariam","HABIB",NA,NA,NA,"mariam habib","Clinical Trial Manager"
+"BHATT, Samir J","s.bhatt","Samir","BHATT","Professor of Statistics and Public Health",NA,"Professor","samir bhatt","Professor of Statistics and Public Health"
+"DAGNINO, Sonia","sonia.dagnino","Sonia","DAGNINO","Visiting Professor","Prof Sonia Dagnino",NA,"sonia dagnino","Visiting Professor"
+"NAKUBULWA, Mable A","m.nakubulwa","Mable","NAKUBULWA","Casual - GTA",NA,"Dr","mable nakubulwa",NA
+"JORGENSEN, David N","david.jorgensen13","David","JORGENSEN","Research Assistant",NA,"Mr","david jorgensen","Research Assistant"
+"JAWAD, Sena","s.jawad","Sena","JAWAD",NA,NA,NA,"sena jawad","Neonatal Clinical Trials Statistician"
+"HASSANZADEH, Roya","r.hassanzadeh","Roya","HASSANZADEH",NA,NA,NA,"roya hassanzadeh","Clinical Research Fellow"
+"JUNGHANS MINTON, Cornelia","c.junghans-minton","Cornelia","JUNGHANS MINTON","Senior Clinical Fellow in Primary Care/ Social Care Lead","Dr Cornelia Junghans Minton",NA,"cornelia junghans minton",NA
+"MCLELLAN-YOUNG, Heather R","h.mclellan","Heather","MCLELLAN-YOUNG",NA,NA,NA,"heather mclellan-young","Casual - Administration Support"
+"BODINIER, Barbara","b.bodinier","Barbara","BODINIER",NA,NA,NA,"barbara bodinier",NA
+"CHALKIDOU, Kalypso (Kalipso)","k.chalkidou","Kalypso","CHALKIDOU","Visiting Professor","Professor Kalipso Chalkidou",NA,"kalypso chalkidou",NA
+"DOWNEY, Laura E","l.downey","Laura","DOWNEY","Teaching Fellow in Public Health (Global Masters Programme)",NA,"Dr","laura downey","Teaching Fellow in Public Health (Global Masters Programme)"
+"KUREK, Natalia Z","n.kurek","Natalia","KUREK",NA,NA,NA,"natalia kurek",NA
+"EVANS, Stephanie","s.evans","Stephanie","EVANS",NA,NA,NA,"stephanie evans","Visiting Researcher"
+"DEWA, Lindsay H","l.dewa","Lindsay","DEWA","Advanced Research Fellow","Dr Lindsay H. Dewa",NA,"lindsay dewa","Advanced Research Fellow"
+"KIVIPELTO, Miia K","m.kivipelto","Miia","KIVIPELTO",NA,NA,NA,"miia kivipelto","Head of Unit - AGE: Ageing Epidemiology Unit"
+"SHEEHAN, Annalisa N","a.sheehan","Annalisa","SHEEHAN","Research Assistant",NA,"Miss","annalisa sheehan","Research Assistant"
+"CRO, Suzie M","s.cro","Suzie","CRO","Senior Lecturer in Medical Statistics and Clinical Trials","Dr Suzie Cro",NA,"suzie cro","Senior Lecturer in Medical Statistics and Clinical Trials"
+"CIAVARELLA, Constanze","c.ciavarella16","Constanze","CIAVARELLA",NA,NA,NA,"constanze ciavarella",NA
+"IURILLI, Maria Laura Caminia","m.iurilli16","Maria","IURILLI",NA,NA,NA,"maria iurilli",NA
+"JERVIS, Phillip","p.jervis16","Phillip","JERVIS","Visiting Researcher",NA,"Dr","phillip jervis","Visiting Researcher"
+"DOOHAN, Patrick E","patrick.doohan15","Patrick","DOOHAN","Research Associate",NA,"Dr","patrick doohan","Research Associate"
+"RICKS, Saskia J","saskia.ricks12","Saskia","RICKS",NA,NA,NA,"saskia ricks",NA
+"DIGHE, Amy","a.dighe16","Amy","DIGHE",NA,NA,NA,"amy dighe",NA
+"CARIOLOU, Margarita","margarita.cariolou15","Margarita","CARIOLOU","Research Assistant in Nutrition","Ms Margarita Cariolou",NA,"margarita cariolou","Research Assistant in Nutrition"
+"SOBIECKI, Jakub G","j.sobiecki","Jakub","SOBIECKI",NA,NA,NA,"jakub sobiecki","Research Associate in Epidemiology x2"
+"WEBBE, James W H","j.webbe","James","WEBBE","Clinical Lecturer in Neonatal Population Health",NA,"Dr","james webbe","Clinical Lecturer in Neonatal Population Health"
+"SAKONIDOU, Susanna","s.sakonidou","Susanna","SAKONIDOU","Research Postgraduate",NA,"Dr","susanna sakonidou",NA
+"HOGAN, Alexandra B","a.hogan","Alexandra","HOGAN","Honorary Lecturer","Dr Alexandra Hogan",NA,"alexandra hogan","Honorary Lecturer"
+"TORRES-VITOLAS, Carlos Alberto","c.torres-vitolas","Carlos","TORRES-VITOLAS","Honorary Research Associate","Dr Carlos A Torres Vitolas",NA,"carlos torres-vitolas","Honorary Research Associate"
+"MARINOVA, Milla","m.marinova","Milla","MARINOVA",NA,NA,NA,"milla marinova","Honorary Research Fellow"
+"CARRILLO LARCO, Rodrigo","r.carrillo-larco","Rodrigo","CARRILLO LARCO",NA,"Dr Rodrigo M. Carrillo Larco",NA,"rodrigo carrillo larco",NA
+"LI, Xiang","x.li","Xiang","LI","Research Associate",NA,"Dr","xiang li","Research Associate"
+"THOMPSON, Hayley A","hayley.thompson12","Hayley","THOMPSON","Casual - Academic Research",NA,"Miss","hayley thompson","Casual - Academic Research"
+"KANG, Su Jin (Sujin)","sujin.kang","Su","KANG","Research Associate in Dementia Identification","Dr Sujin Kang",NA,"su kang",NA
+"AUGUSTINE, Cherelle S","c.augustine","Cherelle","AUGUSTINE",NA,NA,NA,"cherelle augustine","Engagement Coordinator"
+"BHATIA, Sangeeta","s.bhatia","Sangeeta","BHATIA","Visiting Researcher",NA,"Dr","sangeeta bhatia","Visiting Researcher"
+"RODRIGUES, Sabrina","s.andrade-rodrigues","Sabrina","RODRIGUES","Senior Teaching Fellow",NA,"Dr","sabrina rodrigues","Senior Teaching Fellow"
+"LAINE, Jessica","j.laine","Jessica","LAINE","Honorary Senior Research Fellow",NA,"Dr","jessica laine","Honorary Senior Research Fellow"
+"OSAMA, Tasnime","tasnime.osama15","Tasnime","OSAMA",NA,NA,NA,"tasnime osama","Honorary Clinical Research Fellow"
+"DE VILLIERS, Margaret J","m.de-villiers","Margaret","DE VILLIERS","Research Associate",NA,"Dr","margaret de villiers",NA
+"SANIKINI, Harinakshi","h.sanikini","Harinakshi","SANIKINI",NA,NA,NA,"harinakshi sanikini","Research Associate"
+"ROCA BARCELO, Aina","a.roca-barcelo","Aina","ROCA BARCELO","Research Postgraduate",NA,"Miss","aina roca barcelo",NA
+"FERREIRA DO NASCIMENTO, Fabricia","f.ferreira-do-nascimento","Fabricia","FERREIRA DO NASCIMENTO","Research Associate","Dr Fabricia F. Nascimento",NA,"fabricia ferreira do nascimento",NA
+"MAILE, Edward J","e.maile","Edward","MAILE","Honorary Clinical Research Fellow",NA,"Dr","edward maile","Honorary Clinical Research Fellow"
+"SMITH, Jessica","jessica.smith1","Jessica","SMITH","Operations Manager",NA,"Ms","jessica smith","Operations Manager"
+"CHEN, Daniel","t.chen17","Daniel","CHEN",NA,NA,NA,"daniel chen",NA
+"VOS, Valentina M T","valentina.vos16","Valentina","VOS",NA,NA,NA,"valentina vos","Casual - Student demonstrator - lower rate"
+"SHOARI, Niloofar","n.shoari","Niloofar","SHOARI","Early Career Research Fellow",NA,"Dr","niloofar shoari","Early Career Research Fellow"
+"FRASER, Keith J","keith.fraser","Keith","FRASER","Research Associate",NA,"Dr","keith fraser",NA
+"SKIRROW, Helen H","h.skirrow","Helen","SKIRROW","Clinical Research Fellow",NA,"Dr","helen skirrow","Clinical Research Fellow"
+"ZHENG, Bang","b.zheng17","Bang","ZHENG",NA,NA,NA,"bang zheng",NA
+"WHITTAKER, Charles F","charles.whittaker16","Charles","WHITTAKER","Research Associate","Charlie Whittaker",NA,"charles whittaker","Research Associate"
+"OLIVERA MESA, Daniela","d.olivera-mesa17","Daniela","OLIVERA MESA","Technical Analyst","Dr Daniela Olivera Mesa",NA,"daniela olivera mesa",NA
+"GOIANA-DA-SILVA, Francisco","francisco.goiana-da-silva14","Francisco","GOIANA-DA-SILVA",NA,NA,NA,"francisco goiana-da-silva",NA
+"EDWARDS, Hannah","hannah.edwards11","Hannah","EDWARDS",NA,NA,NA,"hannah edwards",NA
+"D'AETH, Joshua (Josh)","j.daeth17","Joshua","D'AETH","Honorary Research Associate",NA,"Dr","joshua d'aeth",NA
+"SCHMIT, Nora","n.schmit17","Nora","SCHMIT","Research Associate","Dr Nora Schmit",NA,"nora schmit","Research Associate"
+"HAYES, Sarah J","sarah.hayes16","Sarah","HAYES","Casual - Student demonstrator - lower rate","Sarah Hayes",NA,"sarah hayes","Casual - Student demonstrator - lower rate"
+"GAYTHORPE, Katherine A M (Katy)","k.gaythorpe","Katherine","GAYTHORPE","Research Fellow","Dr Katy Gaythorpe",NA,"katherine gaythorpe",NA
+"CHRISTAKOUDI, Sofia","s.christakoudi","Sofia","CHRISTAKOUDI","Research Fellow in Cancer Epidemiology",NA,"Dr","sofia christakoudi","Research Fellow in Cancer Epidemiology"
+"DESHPANDE, Shalmali S","shalmali.deshpande16","Shalmali","DESHPANDE",NA,NA,NA,"shalmali deshpande","Casual - Other work"
+"BLACKWELL, Jonathan","j.blackwell","Jonathan","BLACKWELL",NA,NA,NA,"jonathan blackwell","Honorary Research Fellow"
+"ALTURKISTANI, Abrar SA","abrar.alturkistani16","Abrar","ALTURKISTANI",NA,NA,NA,"abrar alturkistani",NA
+"STIMSON, James R P","james.stimson16","James","STIMSON",NA,NA,NA,"james stimson","Visiting Researcher"
+"MOORHOUSE, Louisa R","l.moorhouse","Louisa","MOORHOUSE","Research Assistant",NA,"Ms","louisa moorhouse","Research Assistant"
+"ITUA, Ivie O G","ivie.itua13","Ivie","ITUA",NA,NA,NA,"ivie itua",NA
+"SOLOMON, Bethlehem D","b.solomon","Bethlehem","SOLOMON","Teaching Fellow in Public Health","Bethlehem Solomon",NA,"bethlehem solomon","Teaching Fellow in Public Health"
+"BULL, Stephanie A B","stephanie.bullparker","Stephanie","BULL","Senior Teaching Fellow in Educational Research",NA,"Dr","stephanie bull","Senior Teaching Fellow in Educational Research"
+"PHILLIPS, Rachel","r.phillips","Rachel","PHILLIPS","Senior Lecturer in Medical Statistics and Clinical Trials","Dr Rachel Phillips",NA,"rachel phillips","Senior Lecturer in Medical Statistics and Clinical Trials"
+"COUPLAND, Helen L","h.coupland","Helen","COUPLAND","Research Postgraduate","Helen Coupland",NA,"helen coupland",NA
+"THAKERAR, Viral","v.thakerar","Viral","THAKERAR","Patients, Communities and Healthcare GP Course Lead",NA,"Dr","viral thakerar","Patients, Communities and Healthcare GP Course Lead"
+"DURKINA, Margarita","m.durkina","Margarita","DURKINA",NA,NA,NA,"margarita durkina","Clinical Trials Manager"
+"LOOTS, Celeste A","c.loots","Celeste","LOOTS",NA,NA,NA,"celeste loots","Research Fellow"
+"SHEN, Chen (Steven)","chen.shen","Chen","SHEN","Research Associate in Epidemiology","Dr Chen Shen",NA,"chen shen",NA
+"NABARRO, David N","d.nabarro","David","NABARRO","Co-Director of the Institute of Global Health Innovation",NA,"Professor","david nabarro",NA
+"HEATH, Alicia K","a.heath","Alicia","HEATH","Lecturer in Cancer Epidemiology",NA,"Dr","alicia heath","Lecturer in Cancer Epidemiology"
+"KURA, Klodeta","k.kura","Klodeta","KURA","Visiting Researcher",NA,"Dr","klodeta kura","Visiting Researcher"
+"MEMOOD, Mehrosa","m.memood","Mehrosa","MEMOOD",NA,NA,NA,"mehrosa memood","PA/Admin Officer"
+"GLOVER, Andrew C","a.glover18","Andrew","GLOVER",NA,NA,NA,"andrew glover","Research Associate"
+"ALBOKSMATY, Ahmed M NAM","ahmed.alboksmaty17","Ahmed","ALBOKSMATY","Casual - Other work",NA,"Dr","ahmed alboksmaty","Casual - Other work"
+"QAVI, Ambar N","ambar.qavi17","Ambar","QAVI","Teaching Fellow in Global Health (Maternity Cover)",NA,"Ms","ambar qavi","Teaching Fellow in Global Health (Maternity Cover)"
+"KOBEISSI, Elsa","elsa.kobeissi17","Elsa","KOBEISSI",NA,NA,NA,"elsa kobeissi","Casual - Teaching Support"
+"QUEZADA YAMAMOTO, Harumi","harumi.quezada-yamamoto17","Harumi","QUEZADA YAMAMOTO","Honorary Clinical Research Fellow",NA,"Dr","harumi quezada yamamoto",NA
+"MILLER, Lucy M","lucy.miller17","Lucy","MILLER","Research Postgraduate",NA,"Miss","lucy miller",NA
+"SOPHIEA, Marisa K","marisa.sophiea16","Marisa","SOPHIEA","Research Postgraduate",NA,"Ms","marisa sophiea",NA
+"SKOPEC, Mark R","mark.skopec17","Mark","SKOPEC",NA,NA,NA,"mark skopec",NA
+"MUSTAFA, Rima","r.mustafa","Rima","MUSTAFA","Honorary Research Associate","Dr Rima Mustafa",NA,"rima mustafa","Honorary Research Associate"
+"MCCABE, Ruth O","ruth.mccabe17","Ruth","MCCABE","Visiting Researcher",NA,"Ms","ruth mccabe","Visiting Researcher"
+"BOSHARI, Talia M","talia.boshari16","Talia","BOSHARI",NA,NA,NA,"talia boshari",NA
+"PAPAGEORGIOU, Vasiliki","vasiliki.papageorgiou17","Vasiliki","PAPAGEORGIOU","Research Postgraduate","Miss Vas Papageorgiou",NA,"vasiliki papageorgiou",NA
+"HAREWOOD, Rhea N","r.harewood18","Rhea","HAREWOOD",NA,NA,NA,"rhea harewood",NA
+"DJAAFARA, Bimandra A","bimandra.djaafara15","Bimandra","DJAAFARA","Research Postgraduate","Mr Bimandra Djaafara",NA,"bimandra djaafara",NA
+"RISHER, Kathryn","k.risher","Kathryn","RISHER","Honorary Research Fellow",NA,"Dr","kathryn risher","Honorary Research Fellow"
+"PINHO-GOMES, Ana Catarina","a.pinho-gomes","Ana","PINHO-GOMES",NA,NA,NA,"ana pinho-gomes","Honorary Clinical Fellow"
+"CLARK, Sierra N","sierra.clark","Sierra","CLARK","Honorary Research Associate","Sierra Clark",NA,"sierra clark","Honorary Research Associate"
+"THACKER, Neepa H","n.thacker","Neepa","THACKER",NA,NA,NA,"neepa thacker","Year 5 General Practice and Primary Health Care Course Lead"
+"UNWIN, Helena J T (Juliette)","h.unwin","Helena","UNWIN","Research Fellow","Dr Juliette Unwin",NA,"helena unwin",NA
+"HARGREAVES, Dougal S","d.hargreaves","Dougal","HARGREAVES","Houston Reader in Paediatrics and Population Health",NA,"Dr","dougal hargreaves","Houston Reader in Paediatrics and Population Health"
+"WILSON, Rebecca K","r.wilson1","Rebecca","WILSON",NA,NA,NA,"rebecca wilson","Honorary Clinical Research Fellow"
+"METZLER, Antje B","antje.metzler18","Antje","METZLER","Research Postgraduate","Miss A. Barbara Metzler",NA,"antje metzler",NA
+"BASKIN, Cleo","cleo.baskin18","Cleo","BASKIN",NA,NA,NA,"cleo baskin",NA
+"BONCEA, Emanuela E","e.mendelsohn18","Emanuela","BONCEA","Research Postgraduate",NA,"Miss","emanuela boncea",NA
+"CICEK, Meryem A","meryem.cicek18","Meryem","CICEK",NA,NA,NA,"meryem cicek",NA
+"DENNING, Max C","max.denning18","Max","DENNING",NA,NA,NA,"max denning",NA
+"EALES, Oliver D","o.eales18","Oliver","EALES","Research Postgraduate",NA,"Mr","oliver eales","Research Postgraduate"
+"BOOTON, Ross D","r.booton","Ross","BOOTON","Honorary Research Associate","Dr Ross Booton",NA,"ross booton","Honorary Research Associate"
+"SINGLETON, Rosalie K (Rosie)","rosalie.singleton18","Rosalie","SINGLETON","Data Manager in Population Health","Rosie Singleton",NA,"rosalie singleton",NA
+"GREEN, William","w.green18","William","GREEN","Research Postgraduate","Mr William Green",NA,"william green",NA
+"LUGO PALACIOS, David Gibran","d.lugo-palacios","David","LUGO PALACIOS","Honorary Research Fellow","Dr David G. Lugo Palacios",NA,"david lugo palacios",NA
+"WHITAKER, Matthew D","matthew.whitaker18","Matthew","WHITAKER",NA,NA,NA,"matthew whitaker","Research Assistant in Computational Epidemiology"
+"HEADLAND-VANNI, Nadia (Naia)","n.headland-vanni","Nadia","HEADLAND-VANNI",NA,NA,NA,"nadia headland-vanni",NA
+"BOYD, Olivia H B","o.boyd","Olivia","BOYD","Research Postgraduate","Ms Olivia Boyd",NA,"olivia boyd",NA
+"ZUBER, Verena","v.zuber","Verena","ZUBER","Lecturer in Biostatistics",NA,"Dr","verena zuber",NA
+"VAN ELSLAND, Sabine L","s.van-elsland","Sabine","VAN ELSLAND","External Relationships & Communications Manager","Dr Sabine L. van Elsland",NA,"sabine van elsland",NA
+"ALAA, Aos","aos.alaa18","Aos","ALAA",NA,NA,NA,"aos alaa","Research Assistant"
+"STEVENS, Oliver H E","o.stevens","Oliver","STEVENS","Technical Analyst",NA,"Mr","oliver stevens","Technical Analyst"
+"AHMADI ABHARI, Sara","s.ahmadi-abhari","Sara","AHMADI ABHARI","Lecturer in the Epidemiology Ageing",NA,"Dr","sara ahmadi abhari",NA
+"GEORGIOU-DELISLE, Theo","theo.gd","Theo","GEORGIOU-DELISLE",NA,NA,NA,"theo georgiou-delisle",NA
+"PARNHAM, Jennie C","j.parnham18","Jennie","PARNHAM","Research Associate",NA,"Dr","jennie parnham","Research Associate"
+"MEDCALF, Emily V","emily.medcalf18","Emily","MEDCALF","Communications and Events Officer",NA,"Miss","emily medcalf",NA
+"NOHPAL DE LA ROSA, Consuelo","c.nohpal-de-la-rosa","Consuelo","NOHPAL DE LA ROSA",NA,NA,NA,"consuelo nohpal de la rosa",NA
+"BALDUCCI, Katia","k.balducci","Katia","BALDUCCI","Research Assistant in Nutrition","Ms Katia Balducci",NA,"katia balducci","Research Assistant in Nutrition"
+"ALFORD, Justine E","j.alford","Justine","ALFORD","Honorary Research Fellow",NA,"Dr","justine alford",NA
+"HUANG, Jian","jian.huang","Jian","HUANG","Honorary Research Associate",NA,"Dr","jian huang","Honorary Research Associate"
+"PARAG, Kris V","k.parag","Kris","PARAG","Research Fellow","Dr Kris V Parag",NA,"kris parag","Research Fellow"
+"GARDNER, Clarissa J","clarissa.gardner","Clarissa","GARDNER","Honorary Research Fellow",NA,"Ms","clarissa gardner",NA
+"GHEORGHE, Adrian","a.gheorghe","Adrian","GHEORGHE","Senior Health Economist",NA,"Dr","adrian gheorghe","Senior Health Economist"
+"NUNEZ ELVIRA, Alberto","a.nunez-elvira","Alberto","NUNEZ ELVIRA","Honorary Research Fellow","Dr Alberto Núñez",NA,"alberto nunez elvira",NA
+"AL JAFAR, Rami K R","r.al-jafar18","Rami","AL JAFAR",NA,NA,NA,"rami al jafar",NA
+"CROOME, Natasha J","n.croome","Natasha","CROOME",NA,NA,NA,"natasha croome","Senior Teaching Fellow in Public Health"
+"LILL, Christina M","c.lill","Christina","LILL",NA,NA,NA,"christina lill","Lecturer in the Epidemiology of Ageing"
+"VOLLMER, Michaela A C","m.vollmer","Michaela","VOLLMER","Honorary Research Associate",NA,"Dr","michaela vollmer","Honorary Research Associate"
+"ASHTON, Robert","r.ashton","Robert","ASHTON","Senior Research Software Engineer",NA,"Mr","robert ashton","Senior Research Software Engineer"
+"NGUYEN, Van Kinh (Kinh)","k.nguyen","Van","NGUYEN","Visiting Researcher","Dr Kính",NA,"van nguyen",NA
+"THOMAS, Matthew L","matthew.thomas","Matthew","THOMAS","Visiting Researcher","Matthew L. Thomas",NA,"matthew thomas","Visiting Researcher"
+"KNOCK, Edward S","e.knock","Edward","KNOCK","Research Associate in Mathematical Modelling",NA,"Dr","edward knock","Research Associate in Mathematical Modelling"
+"HAN, Yiqun","yiqun.han","Yiqun","HAN","Research Associate",NA,"Dr","yiqun han","Research Associate"
+"SIMPSON, Catherine G (Kate)","kate.simpson","Catherine","SIMPSON","Research Associate",NA,"Dr","catherine simpson",NA
+"LAWRANCE, Emma","e.lawrance","Emma","LAWRANCE","Lead Policy Fellow for Mental Health",NA,"Dr","emma lawrance",NA
+"SPIERS, Alexander D V","a.spiers19","Alexander","SPIERS","Research Postgraduate",NA,"Mr","alexander spiers",NA
+"MADDREN, Rosemary G (Rosie)","r.maddren","Rosemary","MADDREN","Research Assistant",NA,"Miss","rosemary maddren",NA
+"NATHVANI, Ricky S","r.nathvani","Ricky","NATHVANI","Early Career Research Fellow",NA,"Dr","ricky nathvani","Early Career Research Fellow"
+"THOMPSON, Rhiannon S","r.thompson19","Rhiannon","THOMPSON","Research Associate",NA,"Dr","rhiannon thompson","Research Associate"
+"VRINTEN, Charlotte","c.vrinten","Charlotte","VRINTEN","Teaching Fellow in Public Health",NA,"Dr","charlotte vrinten","Teaching Fellow in Public Health"
+"ELKES, Jack M","j.elkes","Jack","ELKES","NIHR Doctoral Fellow",NA,"Mr","jack elkes","NIHR Doctoral Fellow"
+"SHAH, Rakhee","rakhee.shah","Rakhee","SHAH","Clinical Research Fellow",NA,"Dr","rakhee shah","Clinical Research Fellow"
+"MUKHTAR, Toqir K","t.mukhtar","Toqir","MUKHTAR","Deputy Director Research Design Service & Advanced Res Fel","Toqir Mukhtar",NA,"toqir mukhtar","Deputy Director Research Design Service & Advanced Res Fel"
+"NIMO, James","j.nimo","James","NIMO",NA,NA,NA,"james nimo",NA
+"COLLYER, Benjamin S","b.collyer","Benjamin","COLLYER","Research Associate",NA,"Dr","benjamin collyer","Research Associate"
+"GREGG, Edward W","e.gregg","Edward","GREGG","Chair in Diabetes and Cardiovascular Disease Epidemiology",NA,"Professor","edward gregg","Chair in Diabetes and Cardiovascular Disease Epidemiology"
+"LYONS, Alexander R M","a.lyons","Alexander","LYONS","Research Associate/Project Manager","Dr. Alexander R.M. Lyons, Ph.D",NA,"alexander lyons",NA
+"HIROSE, Atsumi","a.hirose","Atsumi","HIROSE","Teaching Fellow in Global Health",NA,"Dr","atsumi hirose","Teaching Fellow in Global Health"
+"MISHRA, Swapnil","s.mishra","Swapnil","MISHRA","Visiting Researcher",NA,"Dr","swapnil mishra","Visiting Researcher"
+"COX, Victoria M","v.cox","Victoria","COX","Research Postgraduate",NA,"Miss","victoria cox",NA
+"RAM, Bina","b.ram","Bina","RAM","Research Associate",NA,"Dr","bina ram","Research Associate"
+"VAN VOGT, Eleanor M (Ellie)","e.van-vogt","Eleanor","VAN VOGT","NIHR Fellow",NA,"Miss","eleanor van vogt",NA
+"CREESE, Hanna-Marie (Hanna)","h.creese","Hanna-Marie","CREESE","Research Associate",NA,"Dr","hanna-marie creese",NA
+"BUDHATHOKI, Shyam Sundar","s.budhathoki19","Shyam","BUDHATHOKI","Senior Teaching Fellow (Global Health)",NA,"Dr","shyam budhathoki","Senior Teaching Fellow (Global Health)"
+"BRANDTS, Julia M","j.brandts","Julia","BRANDTS",NA,NA,NA,"julia brandts","Honorary Research Associate"
+"CHARNLEY, Georgina E C (Gina)","g.charnley19","Georgina","CHARNLEY","Honorary Research Associate","Gina E C Charnley",NA,"georgina charnley",NA
+"BELCHER, Richard N","r.belcher19","Richard","BELCHER","Research Postgraduate","Mr Richard N Belcher",NA,"richard belcher",NA
+"CRACKNELL DANIELS, Bethan N","bethan.cracknell-daniels19","Bethan","CRACKNELL DANIELS","Research Postgraduate",NA,"Miss","bethan cracknell daniels",NA
+"HAWRYLUK, Iwona","i.hawryluk19","Iwona","HAWRYLUK","Research Postgraduate",NA,"Ms","iwona hawryluk",NA
+"WILLIAMS, Lucy R","lucy.williams19","Lucy","WILLIAMS","Research Postgraduate",NA,"Miss","lucy williams",NA
+"EL ASMAR, Marie Line","marie.el-asmar19","Marie","EL ASMAR",NA,NA,NA,"marie el asmar",NA
+"EDUN, Olanrewaju A (Lanre)","o.edun19","Olanrewaju","EDUN","Research Postgraduate","Olanrewaju Edun",NA,"olanrewaju edun",NA
+"LHOSTE, Victor P F","victor.lhoste19","Victor","LHOSTE","Research Postgraduate",NA,"Mr","victor lhoste",NA
+"JIA, Katherine M","katherine.jia19","Katherine","JIA",NA,NA,NA,"katherine jia","Visiting Researcher"
+"OHRNBERGER, Julius W E","j.ohrnberger","Julius","OHRNBERGER","Honorary Lecturer",NA,"Dr","julius ohrnberger","Honorary Lecturer"
+"HERR, David M","david.herr19","David","HERR",NA,NA,NA,"david herr",NA
+"HARVEY, Christopher J","c.harvey","Christopher","HARVEY","Senior Strategic Teaching Fellow: Psychology Phase One","Dr Christopher-James Harvey",NA,"christopher harvey","Senior Strategic Teaching Fellow: Psychology Phase One"
+"AHMAD, Isa","isa.ahmad18","Isa","AHMAD","Research Postgraduate",NA,"Mr","isa ahmad",NA
+"ABBAS, Mohamed","m.abbas","Mohamed","ABBAS","Honorary Clinical Research Fellow","Dr Mohamed Abbas",NA,"mohamed abbas","Honorary Clinical Research Fellow"
+"TANG, Sonja N","sonja.tang19","Sonja","TANG","Research Postgraduate","Sonja Ning Tang",NA,"sonja tang",NA
+"HALLIGAN, Jack J","j.halligan","Jack","HALLIGAN","Honorary Research Fellow",NA,"Dr","jack halligan",NA
+"KONSTANTINOUDIS, Garyfallos","g.konstantinoudis","Garyfallos","KONSTANTINOUDIS","MRC Skills Development Research Fellow",NA,"Dr","garyfallos konstantinoudis","MRC Skills Development Research Fellow"
+"BHARMAL, Aamena","a.bharmal","Aamena","BHARMAL",NA,NA,NA,"aamena bharmal","Honorary Clinical Research Fellow"
+"COOPER, Laura V","l.cooper","Laura","COOPER","Research Associate in Epidemiology","Dr Laura Cooper",NA,"laura cooper","Research Associate in Epidemiology"
+"UZZELL, Christopher B","c.uzzell","Christopher","UZZELL","Research Associate",NA,"Dr","christopher uzzell","Research Associate"
+"LEES, John A","j.lees","John","LEES","Visiting Researcher",NA,"Dr","john lees","Visiting Researcher"
+"LAI, Heidi T M","h.lai","Heidi","LAI","Research Fellow",NA,"Dr","heidi lai","Research Fellow"
+"BARRATT, Benjamin","b.barratt","Benjamin","BARRATT","Reader in Environmental Exposures & Public Health",NA,"Dr","benjamin barratt","Reader in Environmental Exposures & Public Health"
+"GREEN, David","d.green","David","GREEN","Senior Research Fellow",NA,"Dr","david green","Senior Research Fellow"
+"FULLER, Gary","g.fuller","Gary","FULLER","Senior Lecturer in Air Quality Measurement",NA,"Dr","gary fuller","Senior Lecturer in Air Quality Measurement"
+"BARRON, Leon","leon.barron","Leon","BARRON","Reader in Analytical & Environmental Sciences",NA,"Dr","leon barron","Reader in Analytical & Environmental Sciences"
+"BEEVERS, Sean","s.beevers","Sean","BEEVERS","Reader in Atmospheric modelling",NA,"Dr","sean beevers","Reader in Atmospheric modelling"
+"MUDWAY, Ian","i.mudway","Ian","MUDWAY","Senior Lecturer",NA,"Dr","ian mudway","Senior Lecturer"
+"WILLIAMS, Martin","martin.williams","Martin","WILLIAMS",NA,NA,NA,"martin williams",NA
+"WRIGHT, Stephanie","s.wright19","Stephanie","WRIGHT","Lecturer in Environmental Toxicology",NA,"Dr","stephanie wright",NA
+"KELLY, Frank","frank.kelly","Frank","KELLY","Battcock Chair in Community Health and Policy",NA,"Professor","frank kelly",NA
+"TILEY, Katie","k.tiley","Katie","TILEY",NA,NA,NA,"katie tiley","Casual - GTA"
+"GAINES, Allison","a.gaines20","Allison","GAINES","Research Postgraduate",NA,"Miss","allison gaines",NA
+"TABCHE, Celine","c.tabche20","Celine","TABCHE","Teaching Fellow in Public Health","Celine Tabche",NA,"celine tabche","Teaching Fellow in Public Health"
+"MARVIN, Vanessa","v.marvin","Vanessa","MARVIN",NA,NA,NA,"vanessa marvin","Honorary Research Officer"
+"FAITNA, Puji","p.faitna","Puji","FAITNA","Research Assistant","Puji Faitna",NA,"puji faitna","Research Assistant"
+"FORCHINI, Giovanni","g.forchini","Giovanni","FORCHINI",NA,NA,NA,"giovanni forchini","Visiting Professor"
+"MEENA, Devendra","d.meena","Devendra","MEENA",NA,NA,NA,"devendra meena","Research Associate"
+"WELDEGIORGIS, Misghina T","m.weldegiorgis","Misghina","WELDEGIORGIS","Research Associate, Population Health and Policy, Health Pro","Dr Misghina Weldegiorgis",NA,"misghina weldegiorgis","Research Associate, Population Health and Policy, Health Pro"
+"FARIA, Nuno Miguel R P (Nuno)","n.faria","Nuno","FARIA","Reader in Viral Evolution","Dr Nuno R. Faria",NA,"nuno faria","Reader in Viral Evolution"
+"DAJNAK, David","d.dajnak","David","DAJNAK","Deputy Head of ERG Modelling Group",NA,"Dr","david dajnak","Deputy Head of ERG Modelling Group"
+"WALTON, Heather A","h.walton","Heather","WALTON","Senior Lecturer in Environmental Health",NA,"Dr","heather walton","Senior Lecturer in Environmental Health"
+"VARADEN, Diana","diana.varaden","Diana","VARADEN","Lecturer in Environmental Social Science and Health",NA,"Dr","diana varaden","Lecturer in Environmental Social Science and Health"
+"KATSOUYANNI, Eleni Kleanthi (Klea)","k.katsouyanni","Eleni","KATSOUYANNI","Professor of Public Health",NA,"Professor","eleni katsouyanni",NA
+"KWOK, Wendy","w.kwok","Wendy","KWOK","Teaching Fellow in Public Health","Dr Wendy Kwok",NA,"wendy kwok",NA
+"KYRIAKOS, Christina N","c.kyriakos20","Christina","KYRIAKOS","Research Postgraduate",NA,"Ms","christina kyriakos",NA
+"ASSAREH, Nosha","n.assareh","Nosha","ASSAREH","Research Associate",NA,"Dr","nosha assareh","Research Associate"
+"CRANDELL, Caroline E","c.crandell","Caroline","CRANDELL",NA,NA,NA,"caroline crandell",NA
+"FUSSELL, Julia C","j.fussell","Julia","FUSSELL","Senior Research Fellow","Dr Julia Fussell",NA,"julia fussell","Senior Research Fellow"
+"VUCKOVIC, Dragana","d.vuckovic","Dragana","VUCKOVIC","Lecturer in Computational Epidemiology and Biostatistics",NA,"Dr","dragana vuckovic","Lecturer in Computational Epidemiology and Biostatistics"
+"SANDHU, Manjinder S","m.sandhu","Manjinder","SANDHU",NA,NA,NA,"manjinder sandhu","Chair in Population Health and Data Science"
+"HE, Zhangyi","z.he","Zhangyi","HE",NA,NA,NA,"zhangyi he","Visiting Researcher"
+"LU, Xi","xi.lu","Xi","LU","Research Associate",NA,"Dr","xi lu","Research Associate"
+"HICKS, William A","w.hicks","William","HICKS","Casual - Academic Research","Dr William Hicks",NA,"william hicks","Casual - Academic Research"
+"LIM, Shanon","s.lim","Shanon","LIM","Honorary Research Associate",NA,"Dr","shanon lim","Honorary Research Associate"
+"ZHANG, Hanbin","h.zhang","Hanbin","ZHANG","Early Career Research Fellow",NA,"Dr","hanbin zhang",NA
+"NG, Keng Tiong","keng_tiong.ng","Keng","NG","Research Associate","Dr Keng Tiong (Kelvin) Ng",NA,"keng ng","Research Associate"
+"VU, Tuan V","tuan.vu","Tuan","VU","Senior Air Quality Scientist","Dr Tuan Vu",NA,"tuan vu","Senior Air Quality Scientist"
+"OLIETE, Ana","a.oliete","Ana","OLIETE","Research Associate","Dr Ana Oliete",NA,"ana oliete","Research Associate"
+"TREMPER, Anja H","anja.tremper","Anja","TREMPER","Research Fellow","Dr Anja Tremper",NA,"anja tremper","Research Fellow"
+"BOS, Brendan","brendan.bos","Brendan","BOS","Research Postgraduate",NA,"Mr","brendan bos",NA
+"WOOD, Dylan C T","dylan.wood","Dylan","WOOD","Research Associate",NA,"Dr","dylan wood","Research Associate"
+"LEVERMORE, Joseph M","j.levermore","Joseph","LEVERMORE","Research Associate","Dr Joseph Levermore",NA,"joseph levermore","Research Associate"
+"STEWART, Gregor","g.stewart","Gregor","STEWART","Senior Air Quality Scientist","Dr Gregor Stewart",NA,"gregor stewart","Senior Air Quality Scientist"
+"DESOUZA, Carl","carl.desouza","Carl","DESOUZA","Research Associate",NA,"Dr","carl desouza","Research Associate"
+"EVANGELOPOULOS, Dimitris","d.evangelopoulos","Dimitris","EVANGELOPOULOS","Research Fellow",NA,"Dr","dimitris evangelopoulos","Research Fellow"
+"ARAGHI, Marzieh","m.araghi","Marzieh","ARAGHI",NA,NA,NA,"marzieh araghi","Honorary Research Associate"
+"WOODWARD, Mark","m.woodward","Mark","WOODWARD","Chair of Statistics, Epidemiology and Women's Health",NA,"Professor","mark woodward",NA
+"CHAMBERLAIN, Rosemary C","r.chamberlain20","Rosemary","CHAMBERLAIN",NA,NA,NA,"rosemary chamberlain",NA
+"TANG, David C S","david.tang20","David","TANG",NA,NA,NA,"david tang","Research Assistant in Computational Epidemiology"
+"CIOFANI, Jonathan","jonathan.ciofani20","Jonathan","CIOFANI",NA,NA,NA,"jonathan ciofani",NA
+"POWELL, Richard A","r.powell","Richard","POWELL","Project/Evaluation Manager","Mr Richard Powell",NA,"richard powell","Project/Evaluation Manager"
+"RODGERS, Anthony","a.rodgers","Anthony","RODGERS",NA,NA,NA,"anthony rodgers","Chair of Clinical Epidemiology"
+"NORTON, Robyn N","r.norton","Robyn","NORTON",NA,NA,NA,"robyn norton","Chair of Global Health"
+"PETERS, Sanne A E","sanne.peters","Sanne","PETERS",NA,NA,NA,"sanne peters","Senior Lecturer"
+"FINFER, Simon","s.finfer","Simon","FINFER",NA,NA,NA,"simon finfer","Chair of Critical Care Medicine"
+"MACMAHON, Stephen W","s.macmahon","Stephen","MACMAHON","Chair of Global Health",NA,"Professor","stephen macmahon",NA
+"JHA, Vivekanand (Vivek)","v.jha","Vivekanand","JHA","Chair of Global Kidney Health","Professor Vivekanand Jha",NA,"vivekanand jha",NA
+"PEDEN, Margaret M (Margie)","m.peden","Margaret","PEDEN","Senior Research Fellow",NA,"Dr","margaret peden",NA
+"ATTWOOD, Prasanthi","prasanthi.attwood","Prasanthi","ATTWOOD",NA,NA,NA,"prasanthi attwood",NA
+"NEZAFAT MALDONADO, Behrouz M","b.nezafat-maldonado","Behrouz","NEZAFAT MALDONADO",NA,NA,NA,"behrouz nezafat maldonado",NA
+"STAPLEY, Jacob N","j.stapley20","Jacob","STAPLEY","Research Postgraduate",NA,"Mr","jacob stapley",NA
+"ALSAFI, Zaid","z.alsafi","Zaid","ALSAFI",NA,NA,NA,"zaid alsafi","Honorary Clinical Research Fellow"
+"TANG, Kai Hon","k.tang","Kai","TANG","Research Associate",NA,"Dr","kai tang","Research Associate"
+"CHINDELEVITCH, Leonid","l.chindelevitch","Leonid","CHINDELEVITCH","Lecturer in Infectious Disease Epidemiology",NA,"Dr","leonid chindelevitch","Lecturer in Infectious Disease Epidemiology"
+"ESRA, Rachel T","r.esra20","Rachel","ESRA","Research Assistant","Rachel Esra",NA,"rachel esra","Research Assistant"
+"QIU, Connor Shiqu (Connor)","c.qiu","Connor","QIU","Academic Clinical Fellow",NA,"Dr","connor qiu","Academic Clinical Fellow"
+"HINDOCHA, Chandni","c.hindocha20","Chandni","HINDOCHA",NA,NA,NA,"chandni hindocha",NA
+"EGLI, Melanie","m.egli20","Melanie","EGLI","Research Postgraduate",NA,"Miss","melanie egli",NA
+"OTIS, Michaela","m.otis","Michaela","OTIS",NA,NA,NA,"michaela otis","Research Associate"
+"HEMMINGS, Samuel J","s.hemmings","Samuel","HEMMINGS",NA,NA,NA,"samuel hemmings","Research Assistant"
+"ARORA, Sandeepa","s.arora20","Sandeepa","ARORA","Research Postgraduate",NA,"Ms","sandeepa arora",NA
+"VAN BLANKENSTEIN, Emily","e.vanblankenstein","Emily","VAN BLANKENSTEIN",NA,NA,NA,"emily van blankenstein",NA
+"DERQUI, Nieves","n.derqui-fernandez","Nieves","DERQUI","Research Postgraduate","Miss Nieves Derqui",NA,"nieves derqui",NA
+"BUSE, Kent","k.buse","Kent","BUSE","Visiting Professor",NA,"Professor","kent buse","Visiting Professor"
+"ATANASOVA, Petya","petya.atanasova19","Petya","ATANASOVA","Research Postgraduate","Petya Atanasova",NA,"petya atanasova",NA
+"GERARD-URSIN, Ines C G","ines.gerard-ursin20","Ines","GERARD-URSIN","Technical Analyst","Ines Gerard-Ursin",NA,"ines gerard-ursin","Technical Analyst"
+"RIBAS, Ricardo","r.ribas","Ricardo","RIBAS",NA,NA,NA,"ricardo ribas","Programme Manager"
+"HOCKHAM, Carinna","c.hockham","Carinna","HOCKHAM",NA,NA,NA,"carinna hockham","Research Associate"
+"JOHNSON, Halle","halle.johnson","Halle","JOHNSON","Public Involvement Officer",NA,"Miss","halle johnson","Public Involvement Officer"
+"CHANDRADEVA, Nilani","nilani.chandradeva15","Nilani","CHANDRADEVA","Research Postgraduate","Miss Nilani Chandradeva",NA,"nilani chandradeva",NA
+"SMITH, Alexander G","alexander.smith","Alexander","SMITH",NA,NA,NA,"alexander smith","Research Associate in Data Science"
+"FAWI, Hassan","h.fawi20","Hassan","FAWI",NA,NA,NA,"hassan fawi",NA
+"VALENTE DE ALMEIDA, Sara","s.valente-de-almeida","Sara","VALENTE DE ALMEIDA","Research Associate",NA,"Dr","sara valente de almeida",NA
+"MARKOZANNES, Georgios","g.markozannes","Georgios","MARKOZANNES",NA,NA,NA,"georgios markozannes","Research Associate in Biostatistics"
+"COOK, Sarah A","sarah.cook","Sarah","COOK","Research Fellow",NA,"Dr","sarah cook","Research Fellow"
+"JANANI, Leila","l.janani","Leila","JANANI","Deputy Head of Trial Methodology",NA,"Dr","leila janani","Deputy Head of Trial Methodology"
+"SONABEND, Raphael E B","r.sonabend","Raphael","SONABEND","Visiting Researcher",NA,"Dr","raphael sonabend","Visiting Researcher"
+"RAPP WRIGHT, Helena L","h.rapp-wright","Helena","RAPP WRIGHT","Research Associate","Dr. Helena Rapp Wright",NA,"helena rapp wright",NA
+"MEZHER-SIKAFI, Rasha","r.mezher-sikafi","Rasha","MEZHER-SIKAFI","Deputy Head of Tutoring (Clinical) for Phase One Medicine",NA,"Dr","rasha mezher-sikafi","Deputy Head of Tutoring (Clinical) for Phase One Medicine"
+"GALINDO-PRIETO, Beatriz","b.galindo-prieto","Beatriz","GALINDO-PRIETO","Research Associate",NA,"Dr","beatriz galindo-prieto","Research Associate"
+"WHEELER, Graham M","graham.wheeler","Graham","WHEELER","Honorary Senior Lecturer",NA,"Dr","graham wheeler","Honorary Senior Lecturer"
+"ZAGKOS, Loukas","l.zagkos","Loukas","ZAGKOS","Research Associate in Molecular Epidemiology",NA,"Dr","loukas zagkos",NA
+"SEESEN, Mathuramat","mathuramat.seesen21","Mathuramat","SEESEN",NA,NA,NA,"mathuramat seesen",NA
+"CHAPKO, Dorota","d.chapko","Dorota","CHAPKO",NA,NA,NA,"dorota chapko","Research Fellow"
+"MCKEVITT, Sarah","s.mckevitt","Sarah","MCKEVITT","Honorary Research Associate",NA,"Dr","sarah mckevitt","Honorary Research Associate"
+"GRAY, Elizabeth J","e.gray","Elizabeth","GRAY",NA,NA,NA,"elizabeth gray","Research Associate"
+"MISHRA, Anupam N (Anu)","a.mishra","Anupam","MISHRA","Honorary Research Associate",NA,"Dr","anupam mishra",NA
+"AKELLO, Joyce O","j.akello","Joyce","AKELLO","Research Associate","Dr Joyce Odeke Akello",NA,"joyce akello","Research Associate"
+"BECERRA TOMAS, Nerea","n.becerra-tomas","Nerea","BECERRA TOMAS","Research Associate","Dr Nerea Becerra Tomás",NA,"nerea becerra tomas",NA
+"FREITAS, Luzia Tomas","l.freitas","Luzia","FREITAS","Research Assistant","Ms Luzia Freitas",NA,"luzia freitas","Research Assistant"
+"TOPAZIAN, Hillary M","h.topazian","Hillary","TOPAZIAN","Research Associate in Malaria Epidemiology",NA,"Dr","hillary topazian","Research Associate in Malaria Epidemiology"
+"RAWSON, Thomas E","t.rawson","Thomas","RAWSON","Research Associate",NA,"Dr","thomas rawson","Research Associate"
+"KC, Sukriti","s.kc21","Sukriti","KC","Research Postgraduate","Sukriti KC",NA,"sukriti kc",NA
+"PIANELLA, Matteo","m.pianella","Matteo","PIANELLA","Research Assistant",NA,"Mr","matteo pianella","Research Assistant"
+"LEUBA, Sequoia I","s.leuba21","Sequoia","LEUBA","Research Associate in Malaria Epidemiology","Dr Sequoia Iris Leuba",NA,"sequoia leuba","Research Associate in Malaria Epidemiology"
+"KU, Chu-Chang","c.ku","Chu-Chang","KU","Research Associate","Dr Chu-Chang Ku",NA,"chu-chang ku","Research Associate"
+"CHENG, Lan","lan.cheng","Lan","CHENG","Research Associate",NA,"Dr","lan cheng","Research Associate"
+"GEISMAR, Cyril","c.geismar21","Cyril","GEISMAR","Research Postgraduate",NA,"Mr","cyril geismar",NA
+"AMOAH, Benjamin","b.amoah","Benjamin","AMOAH","Research Associate",NA,"Dr","benjamin amoah","Research Associate"
+"COLLIN, Victoria G","v.collin","Victoria","COLLIN","Teaching Fellow in Medical Education Research",NA,"Dr","victoria collin","Teaching Fellow in Medical Education Research"
+"NWOSU, Amen-Patrick","a.nwosu","Amen-Patrick","NWOSU","Research Postgraduate","Dr Amen-Patrick Nwosu",NA,"amen-patrick nwosu",NA
+"SCHRICKER, Amelia","amelia.schricker21","Amelia","SCHRICKER",NA,NA,NA,"amelia schricker",NA
+"EKORU, Kenneth","k.ekoru","Kenneth","EKORU",NA,NA,NA,"kenneth ekoru","Advanced Research Fellow"
+"HARTNER, Anna-Maria","a.hartner","Anna-Maria","HARTNER","Research Assistant","Ms Anna-Maria Hartner, MSc",NA,"anna-maria hartner","Research Assistant"
+"BROWN, Megan E","megan.brown","Megan","BROWN","Teaching Fellow in Medical Education Research","Dr Megan EL Brown",NA,"megan brown",NA
+"AGLAGO, Kouassivi Elom","k.aglago","Kouassivi","AGLAGO","Research Associate in Epidemiology",NA,"Dr","kouassivi aglago","Research Associate in Epidemiology"
+"HICKS, Joseph T","j.hicks","Joseph","HICKS","Research Associate in Malaria Epidemiology","Dr Joseph T. Hicks",NA,"joseph hicks","Research Associate in Malaria Epidemiology"
+"MUTLOW, Florence N","f.mutlow","Florence","MUTLOW","Honorary Clinical Research Associate",NA,"Dr","florence mutlow","Honorary Clinical Research Associate"
+"PARSONS, Ruth E","r.parsons21","Ruth","PARSONS","Research Postgraduate","Ruthie Parsons",NA,"ruth parsons",NA
+"ADEWO, Debebe Shaweno","d.adewo","Debebe","ADEWO","Research Associate",NA,"Dr","debebe adewo","Research Associate"
+"NAIDOO, Tristan M","t.naidoo21","Tristan","NAIDOO","Research Postgraduate",NA,"Mr","tristan naidoo",NA
+"NEWBERRY LE VAY, Jessica","j.newberry-le-vay","Jessica","NEWBERRY LE VAY"," Junior Policy Fellow in Climate Change and Health","Jessica Newberry Le Vay",NA,"jessica newberry le vay",NA
+"MEAD, Mohammed I","m.mead","Mohammed","MEAD","Head of Air Quality Measurement",NA,"Dr","mohammed mead","Head of Air Quality Measurement"
+"FRANCESCHI, Vinicius","v.franceschi","Vinicius","FRANCESCHI","Research Assistant",NA,"Mr","vinicius franceschi","Research Assistant"
+"BOURMPAKI, Elli","e.bourmpaki","Elli","BOURMPAKI","Clinical Trials Statistician",NA,"Miss","elli bourmpaki","Clinical Trials Statistician"
+"MORALES CLARO, Ingra","i.claro","Ingra","MORALES CLARO",NA,NA,NA,"ingra morales claro",NA
+"SY, Aminata","a.sy","Aminata","SY",NA,NA,NA,"aminata sy",NA
+"DA SILVA CANDIDO, Darlan","d.da-silva-candido","Darlan","DA SILVA CANDIDO","Research Associate","Dr Darlan Candido",NA,"darlan da silva candido",NA
+"MORGENSTERN, Christian","c.morgenstern","Christian","MORGENSTERN","Research Assistant",NA,"Mr","christian morgenstern","Research Assistant"
+"AHMADI, Keivan","k.ahmadi","Keivan","AHMADI","Advanced Research Fellow",NA,"Dr","keivan ahmadi","Advanced Research Fellow"
+"ARIF, Abeer M","a.arif","Abeer","ARIF","Project Manager in Epidemiology and Population Health ","Ms Abeer Arif",NA,"abeer arif","Project Manager in Epidemiology and Population Health"
+"WRIGHT, Annie E","annie.wright","Annie","WRIGHT","Clinical Trials Statistician",NA,"Miss","annie wright",NA
+"MCCAIN, Kelly","k.mccain22","Kelly","MCCAIN","Research Postgraduate","Kelly McCain",NA,"kelly mccain",NA
+"PAINTER, Annabelle","a.painter22","Annabelle","PAINTER",NA,NA,NA,"annabelle painter","Honorary GP Teaching Fellow"
+"CHEN, Gang","gang.chen","Gang","CHEN","Research Associate","Dr. Gang Chen",NA,"gang chen","Research Associate"
+"RAMANATHAN, Agalya","a.ramanathan","Agalya","RAMANATHAN",NA,NA,NA,"agalya ramanathan",NA
+"OLUM, Ronald","ronald.olum22","Ronald","OLUM","Taught Postgraduate",NA,"Dr","ronald olum",NA
+"RUYBAL-PESANTEZ, Shazia N","s.ruybal","Shazia","RUYBAL-PESANTEZ","Research Associate","Dr Shazia Ruybal-Pesántez",NA,"shazia ruybal-pesantez",NA
+"BELESOVA, Kristine","k.belesova","Kristine","BELESOVA","Senior Lecturer in Global Population Health",NA,"Dr","kristine belesova","Senior Lecturer in Global Population Health"
+"KNIGHT, Laura J","laura.knight","Laura","KNIGHT","Teaching Fellow in Medical Education Research",NA,"Dr","laura knight","Teaching Fellow in Medical Education Research"
+"TWUMASI, Clement","c.twumasi","Clement","TWUMASI","Clinical Trials Statistician",NA,"Dr","clement twumasi","Clinical Trials Statistician"
+"GONCALVES, Judite","j.goncalves","Judite","GONCALVES","Lecturer in Global Health Systems Research","Dr Judite Gonçalves",NA,"judite goncalves","Lecturer in Global Health Systems Research"
+"HAILE, Lydia M","l.haile","Lydia","HAILE","Technical Analyst",NA,"Miss","lydia haile","Technical Analyst"
+"LIU, Yunzhe","yunzhe.liu","Yunzhe","LIU","Research Associate in Geospatial Data Analysis",NA,"Dr","yunzhe liu","Research Associate in Geospatial Data Analysis"
+"MIRZA, Amnah","amnah.mirza","Amnah","MIRZA",NA,NA,NA,"amnah mirza","Clinical Trials Administrator"
+"BEREGI, Sandor","s.beregi","Sandor","BEREGI","Research Associate",NA,"Dr","sandor beregi","Research Associate"
+"MAIKORE, Ibrahim K","i.maikore","Ibrahim","MAIKORE",NA,NA,NA,"ibrahim maikore","Research Associate"
+"NAIR, Pallavi","p.nair","Pallavi","NAIR",NA,NA,NA,"pallavi nair","Research Associate in Dementia Identification"
+"CAMPBELL, Steven J","steven.campbell","Steven","CAMPBELL","Marie Curie Fellowship",NA,"Dr","steven campbell","Marie Curie Fellowship"
+"KOLTAI, Mihaly","m.koltai","Mihaly","KOLTAI",NA,NA,NA,"mihaly koltai","Research Fellow in Mathematical Modelling of Tuberculosis Co"
